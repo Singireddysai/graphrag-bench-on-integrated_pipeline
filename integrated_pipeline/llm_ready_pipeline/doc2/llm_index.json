@@ -1,0 +1,34 @@
+{
+  "success": true,
+  "extraction_type": "llm_ready",
+  "processed": 1,
+  "total": 1,
+  "pdfs": [
+    {
+      "path": "C:\\Users\\admin\\PycharmProjects\\Nexus_PdfExtraction\\PDF-Extraction-Tool\\llm_ready_pipeline\\Beccaro_Luca.pdf",
+      "tables": 50,
+      "images": 99,
+      "text_blocks": 1223,
+      "extraction_times": {
+        "tables": 307.12819129999843,
+        "images": 165.51587010000367,
+        "text": 365.9275210000051,
+        "total_time": 838.5715824000072
+      },
+      "table_engines": {
+        "partition_pdf": 50
+      }
+    }
+  ],
+  "total_extraction_times": {
+    "tables_seconds": 0.0,
+    "images_seconds": 0.0,
+    "text_seconds": 0.0,
+    "total_seconds": 0.0
+  },
+  "table_stats": {
+    "engine_breakdown": {
+      "partition_pdf": 50
+    }
+  }
+}

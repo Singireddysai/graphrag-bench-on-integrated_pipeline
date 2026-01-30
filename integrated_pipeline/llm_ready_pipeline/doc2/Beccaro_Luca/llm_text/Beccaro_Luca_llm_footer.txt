@@ -1,0 +1,36 @@
+=== Page 15 ===
+𝜃ℎ
+
+--- Metadata ---
+{'region': 'footer', 'position': 'bottom'}
+
+=== Page 28 ===
+𝜃 𝜃
+
+--- Metadata ---
+{'region': 'footer', 'position': 'bottom'}
+
+=== Page 51 ===
+𝑖=1
+
+--- Metadata ---
+{'region': 'footer', 'position': 'bottom'}
+
+=== Page 72 ===
+𝑓0,𝑖
+
+--- Metadata ---
+{'region': 'footer', 'position': 'bottom'}
+
+=== Page 90 ===
+γ0RC = 0.468 ± 0.068 𝐾𝑅𝐶=
+
+--- Metadata ---
+{'region': 'footer', 'position': 'bottom'}
+
+=== Page 95 ===
+𝛾
+
+--- Metadata ---
+{'region': 'footer', 'position': 'bottom'}
+

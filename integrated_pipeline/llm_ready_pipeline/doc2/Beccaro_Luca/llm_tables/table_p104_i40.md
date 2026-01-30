@@ -1,0 +1,36 @@
+| Material | Dataset ID | Pressure [MPa] | Solid fraction [-] |
+| --- | --- | --- | --- |
+|  |  | 22.536 | 0.584 |
+|  |  | 22.536 | 0.592 |
+|  |  | 23.72 | 0.599 |
+|  |  | 23.708 | 0.59 |
+|  |  | 23.568 | 0.6 |
+|  |  | 41.113 | 0.672 |
+|  |  | 42.119 | 0.68 |
+|  |  | 40.336 | 0.672 |
+| Formulation 2 |  | 42.972 | 0.675 |
+| Formulation 2 |  | 42.679 | 0.672 |
+| Formulation 2 |  | 65.381 | 0.724 |
+| Formulation 2 |  | 67.533 | 0.735 |
+| Formulation 2 |  | 68.742 | 0.737 |
+| Formulation 2 |  | 66.158 | 0.716 |
+| Formulation 2 |  | 66.323 | 0.742 |
+| Formulation 2 |  | 91.317 | 0.775 |
+| Formulation 2 |  | 100.331 | 0.766 |
+| Formulation 2 | CS10-F2 | 99.886 | 0.777 |
+| Formulation 2 |  | 98.943 | 0.799 |
+| Formulation 2 |  | 99.274 | 0.789 |
+| Formulation 2 |  | 35.027 | 0.813 |
+| Formulation 2 |  | 46.155 | 0.837 |
+| Formulation 2 |  | 42.463 | 0.827 |
+| Formulation 2 |  | 42.896 | 0.817 |
+| Formulation 2 |  | 32.328 | 0.781 |
+| Formulation 2 |  | 66.476 | 0.836 |
+| Formulation 2 |  | 76.293 | 0.855 |
+| Formulation 2 |  | 75.656 | 0.859 |
+| Formulation 2 |  | 64.426 | 0.828 |
+| Formulation 2 |  | 78.508 | 0.837 |
+| Formulation 2 |  | 210.785 | 0.86 |
+| Formulation 2 |  | 214.566 | 0.852 |
+| Formulation 2 |  | 215.789 | 0.879 |
+| Formulation 2 |  | 219.85 | 0.896 |

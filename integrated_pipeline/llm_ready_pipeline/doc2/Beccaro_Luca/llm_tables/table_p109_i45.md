@@ -1,0 +1,12 @@
+| Material | Dataset ID | Pressure [MPa] | Solid fraction [-] |
+| --- | --- | --- | --- |
+|  |  | 18.983 | 0.586 |
+|  |  | 18.922 | 0.586 |
+|  |  | 20.331 | 0.594 |
+|  |  | 19.173 | 0.587 |
+| Formulation 2 |  | 18.564 | 0.584 |
+| Formulation 2 | CS18-F2 | 115.662 | 0.824 |
+| Formulation 2 |  | 116.515 | 0.828 |
+| Formulation 2 |  | 122.734 | 0.828 |
+| Formulation 2 |  | 112.58 | 0.83 |
+| Formulation 2 |  | 116.097 | 0.833 |

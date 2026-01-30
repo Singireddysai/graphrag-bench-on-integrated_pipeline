@@ -1,0 +1,16 @@
+| Unnamed: 0 | Unnamed: 1 | Unnamed: 2 | Sintering |
+| --- | --- | --- | --- |
+| I: Solid bridges | RYN |  | Partial melting |
+| I: Solid bridges |  |  | Chemical reaction |
+| I: Solid bridges |  |  | Hardening binders |
+| I: Solid bridges |  |  | Recrystallization |
+| Il: Adhesion and cohesion forces |  | FINA | Highly viscous binders |
+| Il: Adhesion and cohesion forces |  |  | Adsorption layers |
+| Ill: Surface tension and capillary pressure |  |  | Liquid bridges |
+| Ill: Surface tension and capillary pressure |  |  | Capillary pressure |
+| IV: Attraction forces between solids |  | PIN | Molecular forces |
+| IV: Attraction forces between solids |  |  | a) Van-der-Waals forces |
+| IV: Attraction forces between solids |  |  | b) Free chemical bonds |
+| IV: Attraction forces between solids |  |  | c) Associations; hydrogen bridges |
+| IV: Attraction forces between solids |  |  | Electric forces |
+| IV: Attraction forces between solids |  |  | Magnetic forces |

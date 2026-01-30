@@ -1,0 +1,288 @@
+=== Page 10 ===
+4 Chapter 1
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 14 ===
+8 Chapter 1
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 18 ===
+12 Chapter 1
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 20 ===
+14 Chapter 1
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 22 ===
+16 Chapter 1
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 26 ===
+20 Chapter 2
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 28 ===
+22 Chapter 2
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 30 ===
+24 Chapter 2
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 32 ===
+26 Chapter 2
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 34 ===
+28 Chapter 2
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 36 ===
+30 Chapter 2
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 38 ===
+32 Chapter 3 physical properties
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 40 ===
+34 Chapter 3
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 42 ===
+36 Chapter 3
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 44 ===
+38 Chapter 3
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 46 ===
+40 Chapter 3
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 48 ===
+42 Chapter 3 •
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 50 ===
+44 Chapter 3
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 52 ===
+46 Chapter 3 𝑒𝑥𝑝 𝑡ℎ
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 54 ===
+48 Chapter 3
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 56 ===
+50 Chapter 3
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 58 ===
+52 Chapter 3
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 60 ===
+54 Chapter 3
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 62 ===
+56 Chapter 4
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 64 ===
+58 Chapter 4
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 66 ===
+60 Chapter 4
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 68 ===
+62 Chapter 4
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 70 ===
+64 Chapter 4
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 72 ===
+66 Chapter 4
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 74 ===
+68 Chapter 4
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 76 ===
+70 Chapter 4
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 78 ===
+72 Chapter 4
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 80 ===
+74 Chapter 4
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 82 ===
+76 Chapter 4
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 84 ===
+78 Chapter 4
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 86 ===
+80 Chapter 4
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 88 ===
+82 Chapter 4
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 90 ===
+84 Chapter 4
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 92 ===
+86 Chapter 4
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 98 ===
+92 Appendix
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 100 ===
+94 Appendix
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 102 ===
+96 Appendix
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 104 ===
+98 Appendix
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 106 ===
+100 Appendix
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 108 ===
+102 Appendix
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 110 ===
+104 Appendix
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 112 ===
+106 Appendix
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+
+=== Page 114 ===
+108 Appendix
+
+--- Metadata ---
+{'region': 'header', 'position': 'top'}
+

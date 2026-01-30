@@ -1,0 +1,20 @@
+{
+  "summary": {
+    "total_queries": 1,
+    "successful_queries": 1,
+    "failed_queries": 0,
+    "success_rate": "100.0%",
+    "total_duration_seconds": 7.3,
+    "average_duration_seconds": 7.3
+  },
+  "queries": [
+    {
+      "timestamp": "2025-12-18T15:12:34.229624",
+      "query": "What was NVIDIA's total revenue in Q1 Fiscal 2024?",
+      "mode": "hybrid",
+      "duration_seconds": 7.3,
+      "success": true,
+      "error": null
+    }
+  ]
+}

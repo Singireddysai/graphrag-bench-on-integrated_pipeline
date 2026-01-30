@@ -1,0 +1,98 @@
+[
+  {
+    "Material Material": "Formulation 1",
+    "Dataset ID Dataset ID": "CS10-F1",
+    "Pre-consolidation relative density, Yo, [-] Value": 0.422,
+    "Pre-consolidation relative density, Yo, [-] 95% Cl": 0.017,
+    "Compressibility Value Compressibility Value": 7449.0,
+    "constant, Kcs [-] 95% CI constant, Kcs [-] 95% CI": 0.495
+  },
+  {
+    "Material Material": "Formulation 2",
+    "Dataset ID Dataset ID": "CS18-F2",
+    "Pre-consolidation relative density, Yo, [-] Value": 0.358,
+    "Pre-consolidation relative density, Yo, [-] 95% Cl": 0.015,
+    "Compressibility Value Compressibility Value": 5.973,
+    "constant, Kcs [-] 95% CI constant, Kcs [-] 95% CI": 0.325
+  },
+  {
+    "Material Material": "Formulation 2",
+    "Dataset ID Dataset ID": "CS10-F2",
+    "Pre-consolidation relative density, Yo, [-] Value": 0.335,
+    "Pre-consolidation relative density, Yo, [-] 95% Cl": 0.007,
+    "Compressibility Value Compressibility Value": 5.25,
+    "constant, Kcs [-] 95% CI constant, Kcs [-] 95% CI": 0.136
+  },
+  {
+    "Material Material": "Formulation 3",
+    "Dataset ID Dataset ID": "CS18-F3",
+    "Pre-consolidation relative density, Yo, [-] Value": 0.326,
+    "Pre-consolidation relative density, Yo, [-] 95% Cl": 0.013,
+    "Compressibility Value Compressibility Value": 5.34,
+    "constant, Kcs [-] 95% CI constant, Kcs [-] 95% CI": 0.262
+  },
+  {
+    "Material Material": "Formulation 3",
+    "Dataset ID Dataset ID": "CS10-F3",
+    "Pre-consolidation relative density, Yo, [-] Value": 0.286,
+    "Pre-consolidation relative density, Yo, [-] 95% Cl": 0.007,
+    "Compressibility Value Compressibility Value": 4.547,
+    "constant, Kcs [-] 95% CI constant, Kcs [-] 95% CI": 0.118
+  },
+  {
+    "Material Material": "Formulation 4",
+    "Dataset ID Dataset ID": "CS18-F4",
+    "Pre-consolidation relative density, Yo, [-] Value": 0.336,
+    "Pre-consolidation relative density, Yo, [-] 95% Cl": 0.014,
+    "Compressibility Value Compressibility Value": 5.611,
+    "constant, Kcs [-] 95% CI constant, Kcs [-] 95% CI": 0.286
+  },
+  {
+    "Material Material": "Formulation 4",
+    "Dataset ID Dataset ID": "CS10-F4",
+    "Pre-consolidation relative density, Yo, [-] Value": 0.325,
+    "Pre-consolidation relative density, Yo, [-] 95% Cl": 0.011,
+    "Compressibility Value Compressibility Value": 5.295,
+    "constant, Kcs [-] 95% CI constant, Kcs [-] 95% CI": 0.229
+  },
+  {
+    "Material Material": "Compound A",
+    "Dataset ID Dataset ID": "CS10-CA",
+    "Pre-consolidation relative density, Yo, [-] Value": 0.363,
+    "Pre-consolidation relative density, Yo, [-] 95% Cl": 0.014,
+    "Compressibility Value Compressibility Value": 6.09,
+    "constant, Kcs [-] 95% CI constant, Kcs [-] 95% CI": 0.322
+  },
+  {
+    "Material Material": "Compound A",
+    "Dataset ID Dataset ID": "CS21-CA",
+    "Pre-consolidation relative density, Yo, [-] Value": 0.343,
+    "Pre-consolidation relative density, Yo, [-] 95% Cl": 0.017,
+    "Compressibility Value Compressibility Value": 5.354,
+    "constant, Kcs [-] 95% CI constant, Kcs [-] 95% CI": 0.397
+  },
+  {
+    "Material Material": "Compound B",
+    "Dataset ID Dataset ID": "CS10-CB",
+    "Pre-consolidation relative density, Yo, [-] Value": 0.389,
+    "Pre-consolidation relative density, Yo, [-] 95% Cl": 0.018,
+    "Compressibility Value Compressibility Value": 6.632,
+    "constant, Kcs [-] 95% CI constant, Kcs [-] 95% CI": 0.445
+  },
+  {
+    "Material Material": "Compound B",
+    "Dataset ID Dataset ID": "CS21-CB",
+    "Pre-consolidation relative density, Yo, [-] Value": 0.37,
+    "Pre-consolidation relative density, Yo, [-] 95% Cl": 0.178,
+    "Compressibility Value Compressibility Value": 6.239,
+    "constant, Kcs [-] 95% CI constant, Kcs [-] 95% CI": 4.965
+  },
+  {
+    "Material Material": "Compound C",
+    "Dataset ID Dataset ID": "CS11-CC",
+    "Pre-consolidation relative density, Yo, [-] Value": 0.486,
+    "Pre-consolidation relative density, Yo, [-] 95% Cl": 0.009,
+    "Compressibility Value Compressibility Value": 7.835,
+    "constant, Kcs [-] 95% CI constant, Kcs [-] 95% CI": 0.263
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "Material": "Formulation 1",
+    "True density [g/em?]": 1.553,
+    "Wall friction angle, dy [°l": 12.5,
+    "Effective angle of internal friction, 5, [°": 38.0
+  },
+  {
+    "Material": "Formulation 2",
+    "True density [g/em?]": 1.562,
+    "Wall friction angle, dy [°l": 9.0,
+    "Effective angle of internal friction, 5, [°": 37.5
+  },
+  {
+    "Material": "Formulation 3",
+    "True density [g/em?]": 1.571,
+    "Wall friction angle, dy [°l": 11.0,
+    "Effective angle of internal friction, 5, [°": 44.0
+  },
+  {
+    "Material": "Formulation 4",
+    "True density [g/em?]": 1.547,
+    "Wall friction angle, dy [°l": 16.0,
+    "Effective angle of internal friction, 5, [°": 51.0
+  },
+  {
+    "Material": "Compound A",
+    "True density [g/em?]": 1.47,
+    "Wall friction angle, dy [°l": 39.0,
+    "Effective angle of internal friction, 5, [°": 44.0
+  },
+  {
+    "Material": "Compound B",
+    "True density [g/em?]": 1.529,
+    "Wall friction angle, dy [°l": 23.2,
+    "Effective angle of internal friction, 5, [°": 46.8
+  },
+  {
+    "Material": "Compound C",
+    "True density [g/em?]": 1.39,
+    "Wall friction angle, dy [°l": 39.8,
+    "Effective angle of internal friction, 5, [°": 44.6
+  }
+]

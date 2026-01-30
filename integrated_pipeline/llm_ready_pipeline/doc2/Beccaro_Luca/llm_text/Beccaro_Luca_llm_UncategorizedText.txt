@@ -1,0 +1,24 @@
+=== Page 49 ===
+Vi.
+
+--- Metadata ---
+{'pattern_matched': '^[A-Z][^.]*\\.$', 'position': [76.58399963378906, 354.0379943847656, 88.91999816894531, 367.3219909667969], 'original_label': 'caption', 'hybrid_label': 'UncategorizedText', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'hybrid_text_replaced': True}
+
+=== Page 49 ===
+Vii.
+
+--- Metadata ---
+{'pattern_matched': '^[A-Z][^.]*\\.$', 'position': [73.2239990234375, 498.0579833984375, 88.93199920654297, 511.34197998046875], 'original_label': 'caption', 'hybrid_label': 'UncategorizedText', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'hybrid_text_replaced': True}
+
+=== Page 119 ===
+References 113
+
+--- Metadata ---
+{'extraction_method': 'enhanced_fitz', 'original_label': 'main_text', 'hybrid_label': 'UncategorizedText', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr'}
+
+=== Page 119 ===
+References 113
+
+--- Metadata ---
+{'region': 'header', 'position': 'top', 'original_label': 'header', 'hybrid_label': 'UncategorizedText', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr'}
+

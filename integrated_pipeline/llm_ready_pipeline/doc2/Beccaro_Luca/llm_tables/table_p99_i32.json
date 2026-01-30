@@ -1,0 +1,178 @@
+[
+  {
+    ". Material": null,
+    "Dataset ID": null,
+    "Run no.": 1.0,
+    "Specific roll force [KN/em]": 3.0,
+    "Roll gap [mm]": 2.0,
+    "Solid fraction [-]": "0.559"
+  },
+  {
+    ". Material": null,
+    "Dataset ID": null,
+    "Run no.": 1.0,
+    "Specific roll force [KN/em]": 3.0,
+    "Roll gap [mm]": 2.0,
+    "Solid fraction [-]": "0.572"
+  },
+  {
+    ". Material": null,
+    "Dataset ID": null,
+    "Run no.": 1.0,
+    "Specific roll force [KN/em]": 3.0,
+    "Roll gap [mm]": 2.0,
+    "Solid fraction [-]": "0.587"
+  },
+  {
+    ". Material": null,
+    "Dataset ID": null,
+    "Run no.": 2.0,
+    "Specific roll force [KN/em]": 6.0,
+    "Roll gap [mm]": 2.0,
+    "Solid fraction [-]": "0.672"
+  },
+  {
+    ". Material": null,
+    "Dataset ID": null,
+    "Run no.": 2.0,
+    "Specific roll force [KN/em]": 6.0,
+    "Roll gap [mm]": 2.0,
+    "Solid fraction [-]": "0.672"
+  },
+  {
+    ". Material": null,
+    "Dataset ID": null,
+    "Run no.": 3.0,
+    "Specific roll force [KN/em]": 9.0,
+    "Roll gap [mm]": 2.0,
+    "Solid fraction [-]": "0.738"
+  },
+  {
+    ". Material": null,
+    "Dataset ID": null,
+    "Run no.": 3.0,
+    "Specific roll force [KN/em]": 9.0,
+    "Roll gap [mm]": 2.0,
+    "Solid fraction [-]": "0.737"
+  },
+  {
+    ". Material": null,
+    "Dataset ID": null,
+    "Run no.": 3.0,
+    "Specific roll force [KN/em]": 9.0,
+    "Roll gap [mm]": 2.0,
+    "Solid fraction [-]": "0.753"
+  },
+  {
+    ". Material": "Formulation 4",
+    "Dataset ID": null,
+    "Run no.": 4.0,
+    "Specific roll force [KN/em]": 12.0,
+    "Roll gap [mm]": 2.0,
+    "Solid fraction [-]": "0.794"
+  },
+  {
+    ". Material": "Formulation 4",
+    "Dataset ID": null,
+    "Run no.": 4.0,
+    "Specific roll force [KN/em]": 12.0,
+    "Roll gap [mm]": 2.0,
+    "Solid fraction [-]": "0.752"
+  },
+  {
+    ". Material": "Formulation 4",
+    "Dataset ID": null,
+    "Run no.": 4.0,
+    "Specific roll force [KN/em]": 12.0,
+    "Roll gap [mm]": 2.0,
+    "Solid fraction [-]": "0.811"
+  },
+  {
+    ". Material": "Formulation 4",
+    "Dataset ID": "RC-F4",
+    "Run no.": 5.0,
+    "Specific roll force [KN/em]": 4.2,
+    "Roll gap [mm]": NaN,
+    "Solid fraction [-]": "0.545"
+  },
+  {
+    ". Material": "Formulation 4",
+    "Dataset ID": null,
+    "Run no.": 5.0,
+    "Specific roll force [KN/em]": 4.2,
+    "Roll gap [mm]": 4.0,
+    "Solid fraction [-]": "0.558"
+  },
+  {
+    ". Material": "Formulation 4",
+    "Dataset ID": null,
+    "Run no.": 5.0,
+    "Specific roll force [KN/em]": 4.2,
+    "Roll gap [mm]": NaN,
+    "Solid fraction [-]": "0.566"
+  },
+  {
+    ". Material": "Formulation 4",
+    "Dataset ID": null,
+    "Run no.": NaN,
+    "Specific roll force [KN/em]": 8.5,
+    "Roll gap [mm]": 4.0,
+    "Solid fraction [-]": "0.680"
+  },
+  {
+    ". Material": "Formulation 4",
+    "Dataset ID": null,
+    "Run no.": 6.0,
+    "Specific roll force [KN/em]": 8.5,
+    "Roll gap [mm]": 4.0,
+    "Solid fraction [-]": "0.698"
+  },
+  {
+    ". Material": "Formulation 4",
+    "Dataset ID": null,
+    "Run no.": NaN,
+    "Specific roll force [KN/em]": 8.5,
+    "Roll gap [mm]": 4.0,
+    "Solid fraction [-]": "0.689"
+  },
+  {
+    ". Material": "Formulation 4",
+    "Dataset ID": null,
+    "Run no.": 7.0,
+    "Specific roll force [KN/em]": 3.0,
+    "Roll gap [mm]": 4.0,
+    "Solid fraction [-]": "0.515"
+  },
+  {
+    ". Material": "Formulation 4",
+    "Dataset ID": null,
+    "Run no.": 7.0,
+    "Specific roll force [KN/em]": 3.0,
+    "Roll gap [mm]": 4.0,
+    "Solid fraction [-]": "0.526"
+  },
+  {
+    ". Material": "Formulation 4",
+    "Dataset ID": null,
+    "Run no.": 7.0,
+    "Specific roll force [KN/em]": 3.0,
+    "Roll gap [mm]": 4.0,
+    "Solid fraction [-]": "0.515"
+  },
+  {
+    ". Material": "Formulation 4",
+    "Dataset ID": null,
+    "Run no.": NaN,
+    "Specific roll force [KN/em]": NaN,
+    "Roll gap [mm]": NaN,
+    "Solid fraction [-]": "0.630"
+  },
+  {
+    ". Material": "Formulation 4",
+    "Dataset ID": null,
+    "Run no.": 8.0,
+    "Specific roll force [KN/em]": 6.0,
+    "Roll gap [mm]": 4.0,
+    "Solid fraction [-]": "0.632 nN"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "Unnamed: 0": "Formulation 2",
+    "Unnamed: 1": "CS18-F2",
+    "[MPa]": "19-122",
+    "[-l": "0.58-0.83",
+    "experiments": 10
+  },
+  {
+    "Unnamed: 0": "Formulation 3",
+    "Unnamed: 1": "CS18-F3",
+    "[MPa]": "19-145",
+    "[-l": "0.54-0.85",
+    "experiments": 25
+  },
+  {
+    "Unnamed: 0": "Formulation 4",
+    "Unnamed: 1": "CS18-F4",
+    "[MPa]": "18-117",
+    "[-l": "0.56-0.79",
+    "experiments": 25
+  }
+]

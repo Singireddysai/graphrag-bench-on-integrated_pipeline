@@ -1,0 +1,44 @@
+[
+  {
+    "Unnamed: 0": "Formulation 1",
+    "Unnamed: 1": "CS10-F1",
+    "[MPa]": "18-192",
+    "[-l": "0.61-0.85",
+    "experiments": 40
+  },
+  {
+    "Unnamed: 0": "Formulation 2",
+    "Unnamed: 1": "CS10-F2",
+    "[MPa]": "22-220",
+    "[-l": "0.58-0.90",
+    "experiments": 35
+  },
+  {
+    "Unnamed: 0": "Formulation 3",
+    "Unnamed: 1": "CS10-F3",
+    "[MPa]": "22-195",
+    "[-l": "0.56-0.87",
+    "experiments": 35
+  },
+  {
+    "Unnamed: 0": "Formulation 4",
+    "Unnamed: 1": "CS10-F4",
+    "[MPa]": "23-193",
+    "[-l": "0.56-0.85",
+    "experiments": 35
+  },
+  {
+    "Unnamed: 0": "Compound A",
+    "Unnamed: 1": "CS10-CA",
+    "[MPa]": "18-163",
+    "[-l": "0.57-0.82",
+    "experiments": 30
+  },
+  {
+    "Unnamed: 0": "Compound B",
+    "Unnamed: 1": "CS10-CB",
+    "[MPa]": "28-249",
+    "[-l": "0.62-0.87",
+    "experiments": 40
+  }
+]

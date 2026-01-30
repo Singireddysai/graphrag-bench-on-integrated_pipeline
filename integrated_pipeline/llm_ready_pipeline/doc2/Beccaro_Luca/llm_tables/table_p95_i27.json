@@ -1,0 +1,90 @@
+[
+  {
+    "0": "SRF",
+    "1": "Specific roll force"
+  },
+  {
+    "0": "D",
+    "1": "Roll diameter"
+  },
+  {
+    "0": "S",
+    "1": "Roll gap"
+  },
+  {
+    "0": "RS",
+    "1": "Roll speed"
+  },
+  {
+    "0": null,
+    "1": "Compressibility constant"
+  },
+  {
+    "0": null,
+    "1": "Roll radius"
+  },
+  {
+    "0": null,
+    "1": "Specific volume of the layer corresponding to the angular position 0"
+  },
+  {
+    "0": null,
+    "1": "Specific volume of the layer corresponding to the nip angle a"
+  },
+  {
+    "0": null,
+    "1": "Arc-length segment"
+  },
+  {
+    "0": null,
+    "1": "Roll width"
+  },
+  {
+    "0": "te",
+    "1": "Maximum roller surface pressure at the minimum roll gap"
+  },
+  {
+    "0": null,
+    "1": "Total roll force"
+  },
+  {
+    "0": null,
+    "1": "Force factor"
+  },
+  {
+    "0": null,
+    "1": "Compressibility constant estimated from roller compactor experimental data"
+  },
+  {
+    "0": null,
+    "1": "Compressibility constant estimated from compactor simulator experimental data"
+  },
+  {
+    "0": null,
+    "1": "Compressibility constant estimated using the mass correction factor transfer methodology"
+  },
+  {
+    "0": null,
+    "1": "fraction of material delivered to angle 8"
+  },
+  {
+    "0": null,
+    "1": "Fraction of material delivered to angle 9 = 0"
+  },
+  {
+    "0": null,
+    "1": "Maximum pressure applied by the compactor simulator"
+  },
+  {
+    "0": null,
+    "1": "Likelihood function"
+  },
+  {
+    "0": "&",
+    "1": "Log-likelihood function"
+  },
+  {
+    "0": null,
+    "1": "Hessian matrix"
+  }
+]

@@ -1,0 +1,60 @@
+=== Page 1 ===
+UNIVERSITÀ DEGLI STUDI DI PADOVA DIPARTIMENTO DI INGEGNERIA INDUSTRIALE Relatore: Prof. Massimiliano Barolo Correlatore: Dr. Marv Khala Laureando: LUCA BECCARO ANNO ACCADEMICO 2022 - 2023
+
+--- Metadata ---
+{'extraction_method': 'enhanced_fitz', 'promoted_to_title': True, 'title_detection_reason': 'post_processing_title_detection'}
+
+=== Page 1 ===
+ANNO ACCADEMICO 2022 - 2023
+
+--- Metadata ---
+{'region': 'footer', 'position': 'bottom', 'original_label': 'footer', 'hybrid_label': 'main_text', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'hybrid_text_replaced': True, 'promoted_to_title': True, 'title_detection_reason': 'post_processing_title_detection'}
+
+=== Page 1 ===
+UNIVERSITA DEGLI STUDI DI PADOVA
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0, 'promoted_to_title': True, 'title_detection_reason': 'post_processing_title_detection'}
+
+=== Page 1 ===
+DIPARTIMENTO DI INGEGNERIA INDUSTRIALE
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0, 'promoted_to_title': True, 'title_detection_reason': 'post_processing_title_detection'}
+
+=== Page 1 ===
+CORSO DI LAUREA MAGISTRALE IN CHEMICAL AND PROCESS ENGINEERING
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0, 'promoted_to_title': True, 'title_detection_reason': 'post_processing_title_detection'}
+
+=== Page 1 ===
+Tesi di Laurea Magistrale in Chemical and Process Engineering
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0, 'promoted_to_title': True, 'title_detection_reason': 'post_processing_title_detection'}
+
+=== Page 1 ===
+ACCELERATING PHARMACEUTICAL TABLET DEVELOPMENT BY TRANSFER OF COMPACTION EQUIPMENT ACROSS TYPES AND SCALES
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0, 'promoted_to_title': True, 'title_detection_reason': 'post_processing_title_detection'}
+
+=== Page 1 ===
+Relatore: Prof. Massimiliano Barolo Correlatore: Dr. Marv Khala
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0, 'promoted_to_title': True, 'title_detection_reason': 'post_processing_title_detection'}
+
+=== Page 1 ===
+Laureando: LUCA BECCARO
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0, 'promoted_to_title': True, 'title_detection_reason': 'post_processing_title_detection'}
+
+=== Page 1 ===
+ANNO ACCADEMICO 2022 - 2023
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0, 'promoted_to_title': True, 'title_detection_reason': 'post_processing_title_detection'}
+

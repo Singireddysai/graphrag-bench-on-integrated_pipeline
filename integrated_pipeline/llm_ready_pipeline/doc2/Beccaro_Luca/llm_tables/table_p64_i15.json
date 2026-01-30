@@ -1,0 +1,44 @@
+[
+  {
+    "Material Material": "Formulation 1",
+    "al] S=2mm": 5.72,
+    "al] S=3mm": 5.73,
+    "al] =4mm": 5.75
+  },
+  {
+    "Material Material": "Formulation 2",
+    "al] S=2mm": 5.1,
+    "al] S=3mm": 5.11,
+    "al] =4mm": 5.13
+  },
+  {
+    "Material Material": "Formulation 3",
+    "al] S=2mm": 7.66,
+    "al] S=3mm": 7.68,
+    "al] =4mm": 7.69
+  },
+  {
+    "Material Material": "Formulation 4",
+    "al] S=2mm": 11.61,
+    "al] S=3mm": 11.63,
+    "al] =4mm": 11.65
+  },
+  {
+    "Material Material": "Compound A",
+    "al] S=2mm": 25.76,
+    "al] S=3mm": 25.84,
+    "al] =4mm": 25.92
+  },
+  {
+    "Material Material": "Compound B",
+    "al] S=2mm": 10.48,
+    "al] S=3mm": 10.51,
+    "al] =4mm": 10.54
+  },
+  {
+    "Material Material": "Compound C",
+    "al] S=2mm": 21.99,
+    "al] S=3mm": 22.06,
+    "al] =4mm": 22.13
+  }
+]

@@ -1,0 +1,3 @@
+| Unnamed: 0 | 40 | (5-6 | -v) tand, | Unnamed: 4 | Ko | (2cos@ | - | 1-7) tané | Unnamed: 9 | Unnamed: 10 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [1 + | * - cos | | [cot(A | - w) - cot(A | + p)] | 2 le | + . | - | cos 8) cos 6| | , | (2.12) |

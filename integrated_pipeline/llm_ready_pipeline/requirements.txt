@@ -1,0 +1,43 @@
+# LLM-Ready PDF Extraction Pipeline Requirements
+# Enhanced dependencies for LLM-optimized PDF processing
+
+# Core dependencies
+pandas>=1.3.0
+unstructured>=0.10.0
+PyMuPDF>=1.20.0
+pdfplumber>=0.7.0
+
+# LLM-ready PDF extraction
+pymupdf4llm>=0.0.5
+langchain-pymupdf4llm>=0.0.1
+
+# Table extraction with Camelot
+camelot-py[cv]>=0.11.0
+
+# PDF processing dependencies
+unstructured-inference>=0.7.0
+pdf2image==1.17.0
+pillow>=9.0.0
+pi-heif==1.1.1
+
+# OCR and image processing
+pytesseract>=0.3.10
+opencv-python>=4.5.0
+unstructured-pytesseract
+pdfminer.six
+
+# HTML parsing (backend for pandas.read_html)
+lxml>=4.6.0
+beautifulsoup4>=4.10.0
+html5lib>=1.1
+
+# Additional LLM-ready processing
+markdown>=3.4.0
+rich>=13.0.0
+
+# Streamlit UI
+streamlit>=1.28.0
+
+# LightRAG dependencies
+lightrag-hku==1.4.9.8
+nest-asyncio==1.6.0

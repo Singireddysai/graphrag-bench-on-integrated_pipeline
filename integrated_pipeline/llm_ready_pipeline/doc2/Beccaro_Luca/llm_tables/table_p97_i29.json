@@ -1,0 +1,18 @@
+[
+  {
+    "Material": "Formulation 1",
+    "Dataset ID": "RC-F1",
+    "Run no.": 3,
+    "Specific roll force [KN/em]": 9.0,
+    "Roll gap [mm]": 2,
+    "Solid fraction [-]": 0.798
+  },
+  {
+    "Material": "Formulation 1",
+    "Dataset ID": null,
+    "Run no.": 4,
+    "Specific roll force [KN/em]": 12.0,
+    "Roll gap [mm]": 2,
+    "Solid fraction [-]": 0.848
+  }
+]

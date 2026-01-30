@@ -1,0 +1,51 @@
+[
+  {
+    "Material": "Formulation 1",
+    "MAE": 0.013,
+    "MRE": "1.8%",
+    "max(RE)": "79%",
+    "R?": "92.6 %"
+  },
+  {
+    "Material": "Formulation 2",
+    "MAE": 0.015,
+    "MRE": "2.2%",
+    "max(RE)": "6.6%",
+    "R?": "95.4 %"
+  },
+  {
+    "Material": "Formulation 3",
+    "MAE": 0.014,
+    "MRE": "2.1%",
+    "max(RE)": "47%",
+    "R?": "97.6 %"
+  },
+  {
+    "Material": "Formulation 4",
+    "MAE": 0.011,
+    "MRE": "1.6 %",
+    "max(RE)": "5.8%",
+    "R?": "97.4%"
+  },
+  {
+    "Material": "Compound A",
+    "MAE": 0.016,
+    "MRE": "2.2%",
+    "max(RE)": "6.4%",
+    "R?": "83.1%"
+  },
+  {
+    "Material": "Compound B",
+    "MAE": 0.021,
+    "MRE": "3.0%",
+    "max(RE)": "6.9%",
+    "R?": "36.8 %"
+  },
+  {
+    "Material": "Compound C",
+    "MAE": 0.024,
+    "MRE": "3.1%",
+    "max(RE)": "10.6 %",
+    "R?": "70.6 %"
+  }
+]

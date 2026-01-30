@@ -1,0 +1,156 @@
+[
+  {
+    ". Material": null,
+    "Dataset ID": null,
+    "Specific roll force [KN/cm]": 2.0,
+    "Roll gap [mm]": "2 ,",
+    "Solid fraction [-]": 0.704
+  },
+  {
+    ". Material": null,
+    "Dataset ID": null,
+    "Specific roll force [KN/cm]": 3.0,
+    "Roll gap [mm]": "2",
+    "Solid fraction [-]": 0.737
+  },
+  {
+    ". Material": null,
+    "Dataset ID": null,
+    "Specific roll force [KN/cm]": 4.0,
+    "Roll gap [mm]": "2",
+    "Solid fraction [-]": 0.783
+  },
+  {
+    ". Material": null,
+    "Dataset ID": null,
+    "Specific roll force [KN/cm]": 1.5,
+    "Roll gap [mm]": "2",
+    "Solid fraction [-]": 0.686
+  },
+  {
+    ". Material": null,
+    "Dataset ID": null,
+    "Specific roll force [KN/cm]": 1.0,
+    "Roll gap [mm]": "2",
+    "Solid fraction [-]": 0.655
+  },
+  {
+    ". Material": null,
+    "Dataset ID": null,
+    "Specific roll force [KN/cm]": 2.0,
+    "Roll gap [mm]": "2",
+    "Solid fraction [-]": 0.73
+  },
+  {
+    ". Material": null,
+    "Dataset ID": null,
+    "Specific roll force [KN/cm]": 2.5,
+    "Roll gap [mm]": "2",
+    "Solid fraction [-]": 0.739
+  },
+  {
+    ". Material": null,
+    "Dataset ID": null,
+    "Specific roll force [KN/cm]": 3.0,
+    "Roll gap [mm]": "2",
+    "Solid fraction [-]": 0.689
+  },
+  {
+    ". Material": null,
+    "Dataset ID": null,
+    "Specific roll force [KN/cm]": 2.0,
+    "Roll gap [mm]": "2",
+    "Solid fraction [-]": 0.768
+  },
+  {
+    ". Material": null,
+    "Dataset ID": null,
+    "Specific roll force [KN/cm]": 3.0,
+    "Roll gap [mm]": "2",
+    "Solid fraction [-]": 0.731
+  },
+  {
+    ". Material": null,
+    "Dataset ID": null,
+    "Specific roll force [KN/cm]": 4.5,
+    "Roll gap [mm]": "2",
+    "Solid fraction [-]": 0.788
+  },
+  {
+    ". Material": "Compound C",
+    "Dataset ID": "RC-CC",
+    "Specific roll force [KN/cm]": 3.5,
+    "Roll gap [mm]": "2",
+    "Solid fraction [-]": 0.789
+  },
+  {
+    ". Material": "Compound C",
+    "Dataset ID": null,
+    "Specific roll force [KN/cm]": 2.5,
+    "Roll gap [mm]": "2",
+    "Solid fraction [-]": 0.742
+  },
+  {
+    ". Material": "Compound C",
+    "Dataset ID": null,
+    "Specific roll force [KN/cm]": 1.5,
+    "Roll gap [mm]": "2",
+    "Solid fraction [-]": 0.676
+  },
+  {
+    ". Material": "Compound C",
+    "Dataset ID": null,
+    "Specific roll force [KN/cm]": 3.8,
+    "Roll gap [mm]": "2",
+    "Solid fraction [-]": 0.78
+  },
+  {
+    ". Material": "Compound C",
+    "Dataset ID": null,
+    "Specific roll force [KN/cm]": 3.5,
+    "Roll gap [mm]": "2",
+    "Solid fraction [-]": 0.764
+  },
+  {
+    ". Material": "Compound C",
+    "Dataset ID": null,
+    "Specific roll force [KN/cm]": 4.0,
+    "Roll gap [mm]": "2",
+    "Solid fraction [-]": 0.849
+  },
+  {
+    ". Material": "Compound C",
+    "Dataset ID": null,
+    "Specific roll force [KN/cm]": 3.8,
+    "Roll gap [mm]": "2",
+    "Solid fraction [-]": 0.824
+  },
+  {
+    ". Material": "Compound C",
+    "Dataset ID": null,
+    "Specific roll force [KN/cm]": 4.5,
+    "Roll gap [mm]": "3",
+    "Solid fraction [-]": 0.755
+  },
+  {
+    ". Material": "Compound C",
+    "Dataset ID": null,
+    "Specific roll force [KN/cm]": 3.8,
+    "Roll gap [mm]": "2",
+    "Solid fraction [-]": 0.763
+  },
+  {
+    ". Material": "Compound C",
+    "Dataset ID": null,
+    "Specific roll force [KN/cm]": 4.5,
+    "Roll gap [mm]": "2",
+    "Solid fraction [-]": 0.859
+  },
+  {
+    ". Material": "Compound C",
+    "Dataset ID": null,
+    "Specific roll force [KN/cm]": 4.5,
+    "Roll gap [mm]": "2",
+    "Solid fraction [-]": 0.854
+  }
+]

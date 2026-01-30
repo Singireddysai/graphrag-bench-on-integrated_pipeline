@@ -1,0 +1,10 @@
+docs/
+obs/
+openrouter/
+myvenv/
+reference_docs/
+__pycache__/
+.env
+multiple_docs_op/
+helper_docs/
+storage/

@@ -1,0 +1,36 @@
+=== Page 12 ===
+- Capability of controlling intermediate and product quality attributes. Within limits, granulation of pharmaceutical powder offers the advantage of allowing control over porosity, density, hardness, and surface-to-volume ratio. By adjusting the granulation process parameters such as binder concentration, granule size, and dry conditions, the porosity of the granules can be tailored. These parameters have a direct impact on the dispersibility, solubility, and reactivity of the granules, as it affects the rate of dissolution and interaction with other substances. Critical quality attributes of tablets, such as disintegration time, dissolution time, and wettability can be improved if the powder blend has been correctly granulated previously (Parikh, 2005)
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0}
+
+=== Page 16 ===
+2. The nip region: The nip, or compaction, region starts at the nip angle a, where the velocity of the powder blend starts to move with the same velocity as the roll surface. So, the particles are gripped between the two counter-rotating rolls and densification occurs due to the reduction in the roll gap as the powder is dragged to the closest point between rolls. This results in a substantial increase in the roll pressure. The high pressure exerted on the powder causes the breakage of brittle particles and the deformation of plastic ones. The new fractured particles, caused by the fragmentation, and the deformed ones lead to more contact points between the particulate. This induces the bonding of particles at the molecular level due to the effect of Van der Waals forces (Parikh, 2005). The maximum pressure exerted by the rolls is reached at the neutral angle, which does not necessarily occur at the smallest roll gap because of wall slip and other factors (Salman et al., 2006).
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0}
+
+=== Page 16 ===
+3. The release region: Finally, the compacted ribbon is relieved in the release region, where the roll gap starts to increase again the exerted pressure ceases to exist. After the ejection, because of the absence of constraints and stresses, the compacted ribbon may increase in size due to elastic recovery (Salman et al., 2006). The enlargement concern mainly the ribbon thickness and this occurs mainly when dealing with plastic powder materials.
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0}
+
+=== Page 40 ===
+- True density: Prior to compaction the true density of the powder blends was obtained using a helium pycnometer (AccuPyc® II 1340, Micromeritics, Norcross, GA, USA).
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0}
+
+=== Page 40 ===
+- Effective angle of internal friction: Effective angle of internal friction of the powder blends was also measured using the ring shear tester.
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0}
+
+=== Page 59 ===
+1. Ribbon solid fraction prediction: The machine setting combinations applied during the experimental campaign using the available RC dataset are incorporated into the Johanson model to calculate the predicted ribbon SFs y§““. Then these computed values are compared with the corresponding experimental values of YR? obtained using the same combinations of machine settings.
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0}
+

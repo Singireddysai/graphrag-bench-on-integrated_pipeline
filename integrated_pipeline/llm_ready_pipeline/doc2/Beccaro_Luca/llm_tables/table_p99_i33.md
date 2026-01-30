@@ -1,0 +1,17 @@
+| Material | Dataset ID | Run no. | Specific roll force [KN/em] | Roll gap [mm] | Solid fraction [-] |
+| --- | --- | --- | --- | --- | --- |
+|  |  | 1 | 4.0 | 2 | 0.632 |
+|  |  | 1 | 4.0 | 2 | 0.647 |
+|  |  | 1 | 4.0 | 2 | 0.626 |
+|  |  | 2 | 6.0 | 2 | 0.703 |
+|  |  | 2 | 6.0 | 2 | 0.66 |
+|  |  | 2 | 6.0 | 2 | 0.69 |
+|  |  | 3 | 8.0 | 2 | 0.75 |
+| Compound A | RC-CA | 3 | 8.0 | 2 | 0.76 |
+| Compound A |  | 3 | 8.0 | 2 | 0.75 |
+| Compound A |  | 4 | 4.0 | 2 | 0.66 |
+| Compound A |  | 4 | 4.0 | 2 | 0.64 |
+| Compound A |  | 4 | 4.0 | 2 | 0.64 |
+| Compound A |  | 5 |  | 2 | 0.71 |
+| Compound A |  | 5 | 6.0 | 2 | 0.695 |
+| Compound A |  | 5 | 6.0 | 2 | 0.693 |

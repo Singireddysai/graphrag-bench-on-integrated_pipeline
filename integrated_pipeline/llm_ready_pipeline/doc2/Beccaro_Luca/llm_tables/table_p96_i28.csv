@@ -1,0 +1,21 @@
+0,1,2
+,,Envelope density
+,,True density
+,,Porosity
+,,Roll rotation frequency
+,,Effective angle of internal friction
+,,Angle of wall friction
+,,Acute angle between major principal axis and tangent to roll surface
+,,Friction coefficient
+,,Mean normal stress at nip angle a
+,,Mean normal stress at angular position 0
+,,Powder density in the layer corresponding to the angular position 0
+,,Powder density in the layer corresponding to the nip angle
+,,Ribbon solid fraction
+Yo,=,Pre-consolidation relative density
+Yorc,=,Pre-consolidation relative density estimated from roller compactor experimental data
+Yocs,,Pre-consolidation relative density estimated from compactor simulator experimental data
+Yorc,,Pre-consolidation relative density estimated using the mass correction factor transfer methodology
+Sintra-run,=,Standard deviation of the measured solid fraction of the intra runs samples
+Acronyms,Acronyms,Acronyms
+,,Roller compactor

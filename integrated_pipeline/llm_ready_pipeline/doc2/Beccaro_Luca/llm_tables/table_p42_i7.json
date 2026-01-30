@@ -1,0 +1,79 @@
+[
+  {
+    "Material": "Formulation 1",
+    "Dataset ID": "RC-F1",
+    "[KN/cm]": NaN,
+    "Roll gap [mm]": null,
+    "Run repetition": null
+  },
+  {
+    "Material": "Formulation 2",
+    "Dataset ID": "RC-F2",
+    "[KN/cm]": NaN,
+    "Roll gap [mm]": null,
+    "Run repetition": null
+  },
+  {
+    "Material": "Formulation 3 Formulation 4",
+    "Dataset ID": "RC-F3 RC-F4",
+    "[KN/cm]": NaN,
+    "Roll gap [mm]": null,
+    "Run repetition": null
+  },
+  {
+    "Material": "Compound A",
+    "Dataset ID": "RC-CA",
+    "[KN/cm]": NaN,
+    "Roll gap [mm]": null,
+    "Run repetition": "=u"
+  },
+  {
+    "Material": "Compound A",
+    "Dataset ID": "RC-CA",
+    "[KN/cm]": NaN,
+    "Roll gap [mm]": null,
+    "Run repetition": "OO"
+  },
+  {
+    "Material": "Compound A",
+    "Dataset ID": "RC-CA",
+    "[KN/cm]": NaN,
+    "Roll gap [mm]": null,
+    "Run repetition": "DWN"
+  },
+  {
+    "Material": "Compound A",
+    "Dataset ID": "RC-CA",
+    "[KN/cm]": NaN,
+    "Roll gap [mm]": null,
+    "Run repetition": "YN"
+  },
+  {
+    "Material": "Compound B",
+    "Dataset ID": null,
+    "[KN/cm]": NaN,
+    "Roll gap [mm]": null,
+    "Run repetition": "RNWNWNWHN Qe]"
+  },
+  {
+    "Material": "Compound B",
+    "Dataset ID": null,
+    "[KN/cm]": NaN,
+    "Roll gap [mm]": null,
+    "Run repetition": "HE"
+  },
+  {
+    "Material": "Compound B",
+    "Dataset ID": null,
+    "[KN/cm]": NaN,
+    "Roll gap [mm]": null,
+    "Run repetition": "HJR"
+  },
+  {
+    "Material": "Compound C",
+    "Dataset ID": "RC-CC",
+    "[KN/cm]": NaN,
+    "Roll gap [mm]": "BWBNNNNNNNNWN",
+    "Run repetition": null
+  }
+]

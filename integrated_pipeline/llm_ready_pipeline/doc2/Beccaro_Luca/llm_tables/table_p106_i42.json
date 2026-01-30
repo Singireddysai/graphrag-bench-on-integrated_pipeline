@@ -1,0 +1,206 @@
+[
+  {
+    "Material": null,
+    "Dataset ID": null,
+    "Pressure [MPa]": 23.797,
+    "Solid fraction [-]": 0.566
+  },
+  {
+    "Material": null,
+    "Dataset ID": null,
+    "Pressure [MPa]": 25.057,
+    "Solid fraction [-]": 0.58
+  },
+  {
+    "Material": null,
+    "Dataset ID": null,
+    "Pressure [MPa]": 24.408,
+    "Solid fraction [-]": 0.578
+  },
+  {
+    "Material": null,
+    "Dataset ID": null,
+    "Pressure [MPa]": 23.644,
+    "Solid fraction [-]": 0.569
+  },
+  {
+    "Material": null,
+    "Dataset ID": null,
+    "Pressure [MPa]": 23.415,
+    "Solid fraction [-]": 0.573
+  },
+  {
+    "Material": null,
+    "Dataset ID": null,
+    "Pressure [MPa]": 40.222,
+    "Solid fraction [-]": 0.653
+  },
+  {
+    "Material": null,
+    "Dataset ID": null,
+    "Pressure [MPa]": 40.374,
+    "Solid fraction [-]": 0.655
+  },
+  {
+    "Material": null,
+    "Dataset ID": null,
+    "Pressure [MPa]": 39.687,
+    "Solid fraction [-]": 0.648
+  },
+  {
+    "Material": null,
+    "Dataset ID": null,
+    "Pressure [MPa]": 40.018,
+    "Solid fraction [-]": 0.653
+  },
+  {
+    "Material": null,
+    "Dataset ID": null,
+    "Pressure [MPa]": 38.757,
+    "Solid fraction [-]": 0.62
+  },
+  {
+    "Material": null,
+    "Dataset ID": null,
+    "Pressure [MPa]": 49.58,
+    "Solid fraction [-]": 0.675
+  },
+  {
+    "Material": null,
+    "Dataset ID": null,
+    "Pressure [MPa]": 51.528,
+    "Solid fraction [-]": 0.691
+  },
+  {
+    "Material": null,
+    "Dataset ID": null,
+    "Pressure [MPa]": 48.943,
+    "Solid fraction [-]": 0.683
+  },
+  {
+    "Material": null,
+    "Dataset ID": null,
+    "Pressure [MPa]": 48.51,
+    "Solid fraction [-]": 0.684
+  },
+  {
+    "Material": null,
+    "Dataset ID": null,
+    "Pressure [MPa]": 51.286,
+    "Solid fraction [-]": 0.693
+  },
+  {
+    "Material": null,
+    "Dataset ID": null,
+    "Pressure [MPa]": 68.347,
+    "Solid fraction [-]": 0.73
+  },
+  {
+    "Material": null,
+    "Dataset ID": null,
+    "Pressure [MPa]": 69.748,
+    "Solid fraction [-]": 0.728
+  },
+  {
+    "Material": "Formulation 4",
+    "Dataset ID": "CS10-F4",
+    "Pressure [MPa]": 67.354,
+    "Solid fraction [-]": 0.73
+  },
+  {
+    "Material": null,
+    "Dataset ID": null,
+    "Pressure [MPa]": 69.481,
+    "Solid fraction [-]": 0.726
+  },
+  {
+    "Material": null,
+    "Dataset ID": null,
+    "Pressure [MPa]": 67.189,
+    "Solid fraction [-]": 0.728
+  },
+  {
+    "Material": null,
+    "Dataset ID": null,
+    "Pressure [MPa]": 2.483,
+    "Solid fraction [-]": 0.774
+  },
+  {
+    "Material": null,
+    "Dataset ID": null,
+    "Pressure [MPa]": 95.671,
+    "Solid fraction [-]": 0.773
+  },
+  {
+    "Material": null,
+    "Dataset ID": null,
+    "Pressure [MPa]": 3.005,
+    "Solid fraction [-]": 0.777
+  },
+  {
+    "Material": null,
+    "Dataset ID": null,
+    "Pressure [MPa]": 98.001,
+    "Solid fraction [-]": 0.77
+  },
+  {
+    "Material": null,
+    "Dataset ID": null,
+    "Pressure [MPa]": 98.714,
+    "Solid fraction [-]": 0.765
+  },
+  {
+    "Material": null,
+    "Dataset ID": null,
+    "Pressure [MPa]": 44.271,
+    "Solid fraction [-]": 0.794
+  },
+  {
+    "Material": null,
+    "Dataset ID": null,
+    "Pressure [MPa]": 54.864,
+    "Solid fraction [-]": 0.819
+  },
+  {
+    "Material": null,
+    "Dataset ID": null,
+    "Pressure [MPa]": 54.266,
+    "Solid fraction [-]": 0.835
+  },
+  {
+    "Material": null,
+    "Dataset ID": null,
+    "Pressure [MPa]": 54.571,
+    "Solid fraction [-]": 0.832
+  },
+  {
+    "Material": null,
+    "Dataset ID": null,
+    "Pressure [MPa]": 53.693,
+    "Solid fraction [-]": 0.822
+  },
+  {
+    "Material": null,
+    "Dataset ID": null,
+    "Pressure [MPa]": 78.317,
+    "Solid fraction [-]": 0.839
+  },
+  {
+    "Material": null,
+    "Dataset ID": null,
+    "Pressure [MPa]": 93.023,
+    "Solid fraction [-]": 0.848
+  },
+  {
+    "Material": null,
+    "Dataset ID": null,
+    "Pressure [MPa]": 84.123,
+    "Solid fraction [-]": 0.828
+  },
+  {
+    "Material": null,
+    "Dataset ID": null,
+    "Pressure [MPa]": 89.929,
+    "Solid fraction [-]": 0.846
+  }
+]

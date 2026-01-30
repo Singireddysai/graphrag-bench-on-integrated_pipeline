@@ -1,0 +1,4 @@
+| Unnamed: 0_level_0 Moe | Parameter values Unnamed: 1_level_1 | Parameter values Re | Unnamed: 3_level_0 Unnamed: 3_level_1 | Unnamed: 4_level_0 Unnamed: 4_level_1 | Unnamed: 5_level_0 Unnamed: 5_level_1 | Unnamed: 6_level_0 Unnamed: 6_level_1 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Johanson model | 0.267 | 4.599 | 0.016 | 2.2% | 6.4% | 83.1 % |
+| Virtual Johanson model | 0.283 | 4.857 | 0.017 | 2.4% | TAN | 80.0 % |

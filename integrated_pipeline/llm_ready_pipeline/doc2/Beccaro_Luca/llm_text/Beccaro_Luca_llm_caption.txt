@@ -1,0 +1,162 @@
+=== Page 48 ===
+ii.
+
+--- Metadata ---
+{'pattern_matched': '^[A-Z][^.]*\\.$', 'position': [79.2239990234375, 660.0879516601562, 88.94400024414062, 673.3719482421875]}
+
+=== Page 49 ===
+iii.
+
+--- Metadata ---
+{'pattern_matched': '^[A-Z][^.]*\\.$', 'position': [75.98400115966797, 84.00801086425781, 89.06400299072266, 97.2920150756836]}
+
+=== Page 49 ===
+iv.
+
+--- Metadata ---
+{'pattern_matched': '^[A-Z][^.]*\\.$', 'position': [76.58399963378906, 156.0080108642578, 88.91999816894531, 169.29200744628906]}
+
+=== Page 49 ===
+v.
+
+--- Metadata ---
+{'pattern_matched': '^[A-Z][^.]*\\.$', 'position': [79.94400024414062, 246.0080108642578, 88.94400024414062, 259.2920227050781]}
+
+=== Page 10 ===
+Table 1.1. The binding mechanisms involved in the agglomeration processes.
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0}
+
+=== Page 10 ===
+Figure 1.1. Pictorial representation of the binding mechanisms involved in the agglomeration processes (Pietsch, 2002).
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0}
+
+=== Page 20 ===
+Figure 1.6. Different roll surface types (Fitzpatrick®).
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0}
+
+=== Page 39 ===
+Table 3.1. List of materials and their compositions.
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0}
+
+=== Page 40 ===
+Table 3.2 reports all the results of the material characterization analysis.
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0}
+
+=== Page 40 ===
+Table 3.2. Results of powder blends characterisation.
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0}
+
+=== Page 44 ===
+Table 3.4. Summary table of the CS experimental campaign performed on the Phoenix® with 18mm tooling diameters.
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0}
+
+=== Page 45 ===
+Table 3.5. Summary table of the CS experimental campaign performed on the Phoenix® with 10mm tooling diameter.
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0}
+
+=== Page 46 ===
+Table 3.6. Summary table of the CS experimental campaign performed on the Phoenix® with 21.85mm tooling diameter.
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0}
+
+=== Page 46 ===
+Table 3.7. Summary table of the CS experimental campaign performed on the Styl'One® with 11.29mm tooling diameters.
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0}
+
+=== Page 61 ===
+Table 4.1. Johanson model parameters values and 95% confidence intervals of all the powder mixtures.
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0}
+
+=== Page 63 ===
+Table 4.2. Intra-run sample variability.
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0}
+
+=== Page 64 ===
+Table 4.4. Computed values of the nip angles for each material at different values of the minimum roll gap.
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0}
+
+=== Page 67 ===
+Table 4.5. Compactor simulator compression profile parameters values and 95% confidence intervals of all the powder mixtures.
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0}
+
+=== Page 74 ===
+Table 4.7. Parameters values and 95% confidence intervals of the mass correction factor linear expression for the place-based model.
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0}
+
+=== Page 78 ===
+Table 4.8. Parameter values and diagnostic results of Virtual Johanson and Johanson model for Compound A.
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0}
+
+=== Page 78 ===
+Figure 4.9 reports the compression profiles of both the virtual Johanson model and the Johanson model derived from experimental RC data.
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0}
+
+=== Page 80 ===
+Table 4.9 summarises the parameters and diagnostic results of both the virtual Johanson models and those obtained from experimental data, similarly to the approach used for compound A.
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0}
+
+=== Page 80 ===
+Table 4.9. Parameter values and diagnostic results of Virtual Johanson and Johanson model for Compound B.
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0}
+
+=== Page 82 ===
+Table 4.11. Parameter values and diagnostic results of Virtual Johanson and Johanson model using CS mixed datasets.
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0}
+
+=== Page 85 ===
+Table 4.12. Parameters values and 95% confidence intervals of the mass correction factor linear expression for the mix model.
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0}
+
+=== Page 87 ===
+Table 4.7. Pressure mean absolute and relative errors in the mix model calibration.
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0}
+
+=== Page 88 ===
+Table 4.12. Parameter values and diagnostic results of Virtual Johanson and Johanson model for Compound C.
+
+--- Metadata ---
+{'extraction_method': 'hybrid', 'hybrid_label_source': 'unstructured+pymupdf', 'provenance': 'ocr', 'font_median': None, 'font_max': None, 'bold_fraction': 0.0}
+

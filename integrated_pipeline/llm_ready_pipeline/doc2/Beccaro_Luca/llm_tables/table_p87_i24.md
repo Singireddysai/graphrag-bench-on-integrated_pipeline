@@ -1,0 +1,8 @@
+| Material | MAE [MPa] | MRE |
+| --- | --- | --- |
+| Formulation 1 | 12.3 | 17.5% |
+| Formulation 2 | 7.6 | 14.9% |
+| Formulation 3 | 9.7 | 15.1% |
+| Formulation 4 | 5.0 | 12.9% |
+| Compound A | 9.3 | 13.3 % |
+| Compound B | 12.3 | 22.9% |

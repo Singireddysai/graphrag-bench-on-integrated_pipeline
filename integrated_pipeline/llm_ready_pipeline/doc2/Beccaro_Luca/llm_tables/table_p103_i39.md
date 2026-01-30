@@ -1,0 +1,20 @@
+| 0 | 1 | 2 |
+| --- | --- | --- |
+| Formulation 1 | CS10-F1 | 83.053 |
+| Formulation 1 |  | 106.952 |
+| Formulation 1 |  | 106.774 |
+| Formulation 1 |  | 98.205 |
+| Formulation 1 |  | 111.981 |
+| Formulation 1 |  | 102.84 |
+| Formulation 1 |  | 137.026 |
+| Formulation 1 |  | 138.465 |
+| Formulation 1 |  | 138.898 |
+| Formulation 1 |  | 137.866 |
+| Formulation 1 |  | 140.897 |
+| Formulation 1 |  | 168.501 |
+| Formulation 1 |  | 169.417 |
+| Formulation 1 |  | 166.909 |
+| Formulation 1 |  | 164.999 |
+| Formulation 1 |  | 159.27 |
+| Formulation 1 |  | 189.598 |
+| Formulation 1 |  | 188.007 |

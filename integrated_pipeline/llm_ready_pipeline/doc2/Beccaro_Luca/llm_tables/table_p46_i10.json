@@ -1,0 +1,16 @@
+[
+  {
+    "Material": "Compound A",
+    "Dataset ID": "CS21-CA",
+    "Pressure range [MPa]": "25-67",
+    "_ Solid fraction range [-]": "0.63-0.75",
+    "No. of experiments": 34
+  },
+  {
+    "Material": "Compound B",
+    "Dataset ID": "CS21-CB",
+    "Pressure range [MPa]": "34-67",
+    "_ Solid fraction range [-]": "0.64-0.70",
+    "No. of experiments": 38
+  }
+]

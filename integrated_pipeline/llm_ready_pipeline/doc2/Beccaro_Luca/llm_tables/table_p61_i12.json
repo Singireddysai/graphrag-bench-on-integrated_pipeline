@@ -1,0 +1,51 @@
+[
+  {
+    "Material Material": "Formulation 1",
+    "Pre-consolidation relative density, Yo p- [-] Value": 0.345,
+    "Pre-consolidation relative density, Yo p- [-] . 95% Cl": "0.039 ,",
+    "Compressibility constant, Kx [-] Value": 6.054,
+    "Compressibility constant, Kx [-] 95% CI": 0.992
+  },
+  {
+    "Material Material": "Formulation 2",
+    "Pre-consolidation relative density, Yo p- [-] Value": 0.242,
+    "Pre-consolidation relative density, Yo p- [-] . 95% Cl": "0.022",
+    "Compressibility constant, Kx [-] Value": 4.199,
+    "Compressibility constant, Kx [-] 95% CI": 0.411
+  },
+  {
+    "Material Material": "Formulation 3",
+    "Pre-consolidation relative density, Yo p- [-] Value": 0.198,
+    "Pre-consolidation relative density, Yo p- [-] . 95% Cl": "0.016",
+    "Compressibility constant, Kx [-] Value": 3.475,
+    "Compressibility constant, Kx [-] 95% CI": 0.25
+  },
+  {
+    "Material Material": "Formulation 4",
+    "Pre-consolidation relative density, Yo p- [-] Value": 0.233,
+    "Pre-consolidation relative density, Yo p- [-] . 95% Cl": "0.016",
+    "Compressibility constant, Kx [-] Value": 4.12,
+    "Compressibility constant, Kx [-] 95% CI": 0.299
+  },
+  {
+    "Material Material": "Compound A",
+    "Pre-consolidation relative density, Yo p- [-] Value": 0.267,
+    "Pre-consolidation relative density, Yo p- [-] . 95% Cl": "0.026",
+    "Compressibility constant, Kx [-] Value": 4.599,
+    "Compressibility constant, Kx [-] 95% CI": 0.523
+  },
+  {
+    "Material Material": "Compound B",
+    "Pre-consolidation relative density, Yo p- [-] Value": 0.414,
+    "Pre-consolidation relative density, Yo p- [-] . 95% Cl": "0.115",
+    "Compressibility constant, Kx [-] Value": 8.736,
+    "Compressibility constant, Kx [-] 95% CI": 5.067
+  },
+  {
+    "Material Material": "Compound C",
+    "Pre-consolidation relative density, Yo p- [-] Value": 0.41,
+    "Pre-consolidation relative density, Yo p- [-] . 95% Cl": "0.066",
+    "Compressibility constant, Kx [-] Value": 6.314,
+    "Compressibility constant, Kx [-] 95% CI": 1.904
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "Column_0": null,
+    "Column_1": null,
+    "Column_2": null,
+    "nan": NaN,
+    "0.582": 0.716
+  },
+  {
+    "Column_0": "Formulation 2",
+    "Column_1": null,
+    "Column_2": "2",
+    "nan": 2.0,
+    "0.582": 0.715
+  },
+  {
+    "Column_0": "Formulation 2",
+    "Column_1": null,
+    "Column_2": null,
+    "nan": NaN,
+    "0.582": 0.715
+  },
+  {
+    "Column_0": "Formulation 2",
+    "Column_1": "RC-F2",
+    "Column_2": "3",
+    "nan": NaN,
+    "0.582": 0.759
+  },
+  {
+    "Column_0": "Formulation 2",
+    "Column_1": null,
+    "Column_2": "3",
+    "nan": 2.0,
+    "0.582": 0.822
+  },
+  {
+    "Column_0": "Formulation 2",
+    "Column_1": null,
+    "Column_2": "3",
+    "nan": NaN,
+    "0.582": 0.778
+  },
+  {
+    "Column_0": "Formulation 2",
+    "Column_1": null,
+    "Column_2": "4 5",
+    "nan": 2.0,
+    "0.582": 0.807
+  },
+  {
+    "Column_0": "Formulation 2",
+    "Column_1": null,
+    "Column_2": "4 5",
+    "nan": 2.0,
+    "0.582": 0.82
+  },
+  {
+    "Column_0": "Formulation 2",
+    "Column_1": null,
+    "Column_2": "4 5",
+    "nan": 2.0,
+    "0.582": 0.84
+  },
+  {
+    "Column_0": "Formulation 2",
+    "Column_1": null,
+    "Column_2": "4 5",
+    "nan": 4.0,
+    "0.582": 0.577
+  }
+]

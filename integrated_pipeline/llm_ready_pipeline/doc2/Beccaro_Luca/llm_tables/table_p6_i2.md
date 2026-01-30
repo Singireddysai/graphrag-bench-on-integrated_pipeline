@@ -1,0 +1,29 @@
+| 0 | 1 |
+| --- | --- |
+| 3.3.1 | PHOCMIX® 00... ccccccsscccsccessecesscessecesecessecesecessecesecesecesscessecesseessecesseessesenseesseeens |
+| 3.3.2 | Styl'One® |
+| 3.3.3 | - Ribblet solid fraction... eecseesceseseeseeceeeeeeseeeeseeseescsecseeaceeeseeaeeseeeaeeeeeeseeenes 41 |
+| 3.4. JOHANSON MODEL PARAMETERS ESTIMATION .. we Al | 3.4. JOHANSON MODEL PARAMETERS ESTIMATION .. we Al |
+| 3.4.1 | Maximum likelihood objective function... 44 |
+| 3.4.2 | Confidence intervals ...ccceceeeseeseeseseeseeseeeeseeseeeseeseeecsesseeseeeseeaeeeeaeeaeeaseesaeeas 46 |
+| 3.5 | COMPACTOR SIMULATOR COMPRESSION PROFILE PARAMETERS ...cssceeeseeseeseeeeesees 47 |
+| 3.6 | PROPOSED TRANSFER METHODOLOGY USING MASS CORRECTION FACTOR ...:0:e000088 48 |
+| 3.6.1 | Development stage oo... eeseeeesesensescseeeecseseeeescsseececsesseesseseeeeesseseeeeaeseeees 50 |
+| 3.6.2 | Calibration... ccececescesesceseesceecseeseeeeseeseseeseeseeccsecaecseeacsecaeeaceeeaeeaeeeeaeeaeeasereaeeaes |
+| 3.6.3. | Validation. |
+| 3.6.4 | Usage stage |
+| CHAPTER 4 - RESULTS AND DISCUSSION ...ccssssssssssssssssssssessssessssesssssesseseseeseseseees 55 | CHAPTER 4 - RESULTS AND DISCUSSION ...ccssssssssssssssssssssessssessssesssssesseseseeseseseees 55 |
+| 4.1 | COMPRESSION PROFILE PRELIMINARY ANALYSIS ...ssscscesesssesesesesescesseseessessesseeeessees 55 | 4.1 | COMPRESSION PROFILE PRELIMINARY ANALYSIS ...ssscscesesssesesesesescesseseessessesseeeessees 55 |
+| 4.1.1 | Roller compactor compression profiles... ceseseeeeeeseeseeeseeeeeseseeeteeseees 55 |
+| 4.1.2 | Compactor simulator compression profile ... eee ceseteeeeseseeeeeeseeeneeneees 61 |
+| 4.1.3. | Compression profiles COMparisON ... cece eeteeeeseeeeeeeeseseeetseseeeeasseeeteeseees 63 |
+| 4.1.4 | Mass correction factors analysis |
+| 4.2 | | PLACEBO-BASED TRANSFER MODEL. ...csscssesseseescseeseeceseeaeeseeceneeseeeeaseaeeeeeeeaeeaeeneeeeaees 67 |
+| A211 | Calibration ...cccccccccccccsssssesscsscesceseesscsseceeeseesecsesesesseseeeeseceeseseesecseeeaeseseeeeseenes 67 |
+| 4.2.2 | Validation... 70 |
+|  | 4.2.2.1 Compound An cccccccsccscesessescsceceescsesecsesesseeseeseseesseseeesssseseeesseseeee 71 |
+|  | 4.2.2.2 Compound Boe cceccseeseeseseesescseeeescsceceesesseesseseseesseseeesseseeeeesseneeee 73 |
+| 4.2.3. Validation using compactor simulator datasets with different diameters ... 75 | 4.2.3. Validation using compactor simulator datasets with different diameters ... 75 |
+| 4.3. | MIX TRANSFER MODEL ...cescesessesceceseeseeseseesceseeecseeaceccaecaeeseeeeseeaeeeaeeaeeaseesseeaeeneaeeates 79 |
+| 4.4 | COMPOUND C ANALYSIS...cescesesseseeseseeseescseeseeseeecaeesesacsecaeeseneeseeaeeeeaeeaeeaeeesseeaseneaeeaees 81 |
+| 4.5 | EFFECT OF COMPOSITION ON JOHANSON MODEL PARAMETER VALUES. ...seseeeeeeeeeeees 84 |

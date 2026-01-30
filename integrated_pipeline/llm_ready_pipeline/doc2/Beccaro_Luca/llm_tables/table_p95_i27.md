@@ -1,0 +1,24 @@
+| 0 | 1 |
+| --- | --- |
+| SRF | Specific roll force |
+| D | Roll diameter |
+| S | Roll gap |
+| RS | Roll speed |
+|  | Compressibility constant |
+|  | Roll radius |
+|  | Specific volume of the layer corresponding to the angular position 0 |
+|  | Specific volume of the layer corresponding to the nip angle a |
+|  | Arc-length segment |
+|  | Roll width |
+| te | Maximum roller surface pressure at the minimum roll gap |
+|  | Total roll force |
+|  | Force factor |
+|  | Compressibility constant estimated from roller compactor experimental data |
+|  | Compressibility constant estimated from compactor simulator experimental data |
+|  | Compressibility constant estimated using the mass correction factor transfer methodology |
+|  | fraction of material delivered to angle 8 |
+|  | Fraction of material delivered to angle 9 = 0 |
+|  | Maximum pressure applied by the compactor simulator |
+|  | Likelihood function |
+| & | Log-likelihood function |
+|  | Hessian matrix |

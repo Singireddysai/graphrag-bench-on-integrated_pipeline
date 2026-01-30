@@ -1,0 +1,30 @@
+[
+  {
+    "Material": "Formulation 1",
+    "Gintra-run [-]": 0.018
+  },
+  {
+    "Material": "Formulation 2",
+    "Gintra-run [-]": 0.017
+  },
+  {
+    "Material": "Formulation 3",
+    "Gintra-run [-]": 0.008
+  },
+  {
+    "Material": "Formulation 4",
+    "Gintra-run [-]": 0.012
+  },
+  {
+    "Material": "Compound A",
+    "Gintra-run [-]": 0.011
+  },
+  {
+    "Material": "Compound B",
+    "Gintra-run [-]": 0.023
+  },
+  {
+    "Material": "Compound C",
+    "Gintra-run [-]": NaN
+  }
+]

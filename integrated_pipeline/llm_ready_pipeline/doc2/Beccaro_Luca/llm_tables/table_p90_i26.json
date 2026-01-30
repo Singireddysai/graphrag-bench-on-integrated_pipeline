@@ -1,0 +1,68 @@
+[
+  {
+    "Material": null,
+    "Specific roll force [kN/em]": "4.0 ,",
+    "Roll gap [mm]": 15.0,
+    "Solid fraction [-]": 0.723
+  },
+  {
+    "Material": null,
+    "Specific roll force [kN/em]": "4.0",
+    "Roll gap [mm]": 3.0,
+    "Solid fraction [-]": 0.696
+  },
+  {
+    "Material": null,
+    "Specific roll force [kN/em]": "4.0",
+    "Roll gap [mm]": 1.5,
+    "Solid fraction [-]": 0.718
+  },
+  {
+    "Material": null,
+    "Specific roll force [kN/em]": "4.0",
+    "Roll gap [mm]": 3.0,
+    "Solid fraction [-]": 0.71
+  },
+  {
+    "Material": null,
+    "Specific roll force [kN/em]": "8.0",
+    "Roll gap [mm]": 1.5,
+    "Solid fraction [-]": 0.779
+  },
+  {
+    "Material": "Mannitol 200 SD",
+    "Specific roll force [kN/em]": "8.0",
+    "Roll gap [mm]": 3.0,
+    "Solid fraction [-]": 0.767
+  },
+  {
+    "Material": "Mannitol 200 SD",
+    "Specific roll force [kN/em]": "8.0",
+    "Roll gap [mm]": 1.5,
+    "Solid fraction [-]": 0.757
+  },
+  {
+    "Material": "Mannitol 200 SD",
+    "Specific roll force [kN/em]": "8.0",
+    "Roll gap [mm]": 3.0,
+    "Solid fraction [-]": 0.77
+  },
+  {
+    "Material": "Mannitol 200 SD",
+    "Specific roll force [kN/em]": "6.0",
+    "Roll gap [mm]": 2.25,
+    "Solid fraction [-]": 0.756
+  },
+  {
+    "Material": "Mannitol 200 SD",
+    "Specific roll force [kN/em]": "6.0",
+    "Roll gap [mm]": 2.25,
+    "Solid fraction [-]": 0.744
+  },
+  {
+    "Material": "Mannitol 200 SD",
+    "Specific roll force [kN/em]": "6.0",
+    "Roll gap [mm]": 2.25,
+    "Solid fraction [-]": 0.755
+  }
+]

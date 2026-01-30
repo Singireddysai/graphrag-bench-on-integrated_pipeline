@@ -1,0 +1,29 @@
+LLM-Ready Text Extraction Summary for Beccaro_Luca.pdf
+============================================================
+
+Total pages processed: 115
+Total content blocks extracted: 1223
+Total characters: 197,942
+
+Content types found:
+  title: 10 blocks
+  main_text: 1121 blocks
+  FigureCaption: 1 blocks
+  header: 48 blocks
+  footer: 6 blocks
+  caption: 27 blocks
+  UncategorizedText: 4 blocks
+  list_item: 6 blocks
+
+LLM-Ready files created:
+  Beccaro_Luca_paragraph_text.jsonl
+  Beccaro_Luca_llm_title.txt
+  Beccaro_Luca_llm_main_text.txt
+  Beccaro_Luca_llm_FigureCaption.txt
+  Beccaro_Luca_llm_header.txt
+  Beccaro_Luca_llm_footer.txt
+  Beccaro_Luca_llm_caption.txt
+  Beccaro_Luca_llm_UncategorizedText.txt
+  Beccaro_Luca_llm_list_item.txt
+  Beccaro_Luca_llm_combined.txt
+  Beccaro_Luca_llm_summary.txt

@@ -1,0 +1,86 @@
+[
+  {
+    "Unnamed: 0": "I: Solid bridges",
+    "Unnamed: 1": "RYN",
+    "Unnamed: 2": null,
+    "Sintering": "Partial melting"
+  },
+  {
+    "Unnamed: 0": "I: Solid bridges",
+    "Unnamed: 1": null,
+    "Unnamed: 2": null,
+    "Sintering": "Chemical reaction"
+  },
+  {
+    "Unnamed: 0": "I: Solid bridges",
+    "Unnamed: 1": null,
+    "Unnamed: 2": null,
+    "Sintering": "Hardening binders"
+  },
+  {
+    "Unnamed: 0": "I: Solid bridges",
+    "Unnamed: 1": null,
+    "Unnamed: 2": null,
+    "Sintering": "Recrystallization"
+  },
+  {
+    "Unnamed: 0": "Il: Adhesion and cohesion forces",
+    "Unnamed: 1": null,
+    "Unnamed: 2": "FINA",
+    "Sintering": "Highly viscous binders"
+  },
+  {
+    "Unnamed: 0": "Il: Adhesion and cohesion forces",
+    "Unnamed: 1": null,
+    "Unnamed: 2": null,
+    "Sintering": "Adsorption layers"
+  },
+  {
+    "Unnamed: 0": "Ill: Surface tension and capillary pressure",
+    "Unnamed: 1": null,
+    "Unnamed: 2": null,
+    "Sintering": "Liquid bridges"
+  },
+  {
+    "Unnamed: 0": "Ill: Surface tension and capillary pressure",
+    "Unnamed: 1": null,
+    "Unnamed: 2": null,
+    "Sintering": "Capillary pressure"
+  },
+  {
+    "Unnamed: 0": "IV: Attraction forces between solids",
+    "Unnamed: 1": null,
+    "Unnamed: 2": "PIN",
+    "Sintering": "Molecular forces"
+  },
+  {
+    "Unnamed: 0": "IV: Attraction forces between solids",
+    "Unnamed: 1": null,
+    "Unnamed: 2": null,
+    "Sintering": "a) Van-der-Waals forces"
+  },
+  {
+    "Unnamed: 0": "IV: Attraction forces between solids",
+    "Unnamed: 1": null,
+    "Unnamed: 2": null,
+    "Sintering": "b) Free chemical bonds"
+  },
+  {
+    "Unnamed: 0": "IV: Attraction forces between solids",
+    "Unnamed: 1": null,
+    "Unnamed: 2": null,
+    "Sintering": "c) Associations; hydrogen bridges"
+  },
+  {
+    "Unnamed: 0": "IV: Attraction forces between solids",
+    "Unnamed: 1": null,
+    "Unnamed: 2": null,
+    "Sintering": "Electric forces"
+  },
+  {
+    "Unnamed: 0": "IV: Attraction forces between solids",
+    "Unnamed: 1": null,
+    "Unnamed: 2": null,
+    "Sintering": "Magnetic forces"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "Material": "Formulation 1",
+    "MAE [MPa]": 12.3,
+    "MRE": "17.5%"
+  },
+  {
+    "Material": "Formulation 2",
+    "MAE [MPa]": 7.6,
+    "MRE": "14.9%"
+  },
+  {
+    "Material": "Formulation 3",
+    "MAE [MPa]": 9.7,
+    "MRE": "15.1%"
+  },
+  {
+    "Material": "Formulation 4",
+    "MAE [MPa]": 5.0,
+    "MRE": "12.9%"
+  },
+  {
+    "Material": "Compound A",
+    "MAE [MPa]": 9.3,
+    "MRE": "13.3 %"
+  },
+  {
+    "Material": "Compound B",
+    "MAE [MPa]": 12.3,
+    "MRE": "22.9%"
+  }
+]

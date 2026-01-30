@@ -1,0 +1,102 @@
+[
+  {
+    "ateria Material ateria Material": ". Formulation 2",
+    "Unnamed: 1_level_0 Unnamed: 1_level_1": "ohanson mode",
+    "Parameter values Yorc": "0.242",
+    "Parameter values Kec": "4.199",
+    "MAE MAE": "0.015",
+    "MRE MRE": "2.2%",
+    "max RE, max RE,": "6.4%",
+    "R? R?": "95.4%"
+  },
+  {
+    "ateria Material ateria Material": ". Formulation 2",
+    "Unnamed: 1_level_0 Unnamed: 1_level_1": ". irtual Johanson mode Vv 1 id",
+    "Parameter values Yorc": ". 0.283",
+    "Parameter values Kec": ". 4.810",
+    "MAE MAE": ". 0.015",
+    "MRE MRE": "3% 2.3%",
+    "max RE, max RE,": "0% 7.0%",
+    "R? R?": "1% 94.7 %"
+  },
+  {
+    "ateria Material ateria Material": ". Formulation 3",
+    "Unnamed: 1_level_0 Unnamed: 1_level_1": "ohanson mode",
+    "Parameter values Yorc": "0.198",
+    "Parameter values Kec": "3.475",
+    "MAE MAE": "0.014",
+    "MRE MRE": "2.1%",
+    "max RE, max RE,": "47%",
+    "R? R?": "97.6 %"
+  },
+  {
+    "ateria Material ateria Material": ". Formulation 3",
+    "Unnamed: 1_level_0 Unnamed: 1_level_1": ". Virtual Johanson mode",
+    "Parameter values Yorc": "0.231",
+    "Parameter values Kec": "3.977",
+    "MAE MAE": "0.018",
+    "MRE MRE": "2.7%",
+    "max RE, max RE,": "48%",
+    "R? R?": "96.0 %"
+  },
+  {
+    "ateria Material ateria Material": ". Formulation 4",
+    "Unnamed: 1_level_0 Unnamed: 1_level_1": "ohanson mode",
+    "Parameter values Yorc": "0.233",
+    "Parameter values Kec": "4.120",
+    "MAE MAE": "0.011",
+    "MRE MRE": "1.6%",
+    "max RE, max RE,": "5.8%",
+    "R? R?": "97.4%"
+  },
+  {
+    "ateria Material ateria Material": ". Formulation 4",
+    "Unnamed: 1_level_0 Unnamed: 1_level_1": ". Virtual Johanson mode",
+    "Parameter values Yorc": "0.264",
+    "Parameter values Kec": "4.564",
+    "MAE MAE": "0.024",
+    "MRE MRE": "4.0%",
+    "max RE, max RE,": "94%",
+    "R? R?": "89.6 %"
+  },
+  {
+    "ateria Material ateria Material": "Compound A",
+    "Unnamed: 1_level_0 Unnamed: 1_level_1": "ohanson mode",
+    "Parameter values Yorc": "0.267",
+    "Parameter values Kec": "4.599",
+    "MAE MAE": "0.016",
+    "MRE MRE": "2.2%",
+    "max RE, max RE,": "6.4%",
+    "R? R?": "83.1 %"
+  },
+  {
+    "ateria Material ateria Material": "Compound A",
+    "Unnamed: 1_level_0 Unnamed: 1_level_1": ". irtual Johanson mode Vv 1 id",
+    "Parameter values Yorc": ". 0.291",
+    "Parameter values Kec": "4. 984",
+    "MAE MAE": "I. 0.019",
+    "MRE MRE": "1% 2.7%",
+    "max RE, max RE,": "2% 8.2%",
+    "R? R?": "6% 74.6 %"
+  },
+  {
+    "ateria Material ateria Material": "Compound B",
+    "Unnamed: 1_level_0 Unnamed: 1_level_1": "ohanson mode",
+    "Parameter values Yorc": "0.414",
+    "Parameter values Kec": "8.736",
+    "MAE MAE": "0.024",
+    "MRE MRE": "3.0%",
+    "max RE, max RE,": "6.9%",
+    "R? R?": "36.8 %"
+  },
+  {
+    "ateria Material ateria Material": "Compound B",
+    "Unnamed: 1_level_0 Unnamed: 1_level_1": ". rtual Johanson mode i Vv 1 id",
+    "Parameter values Yorc": ". 0.288",
+    "Parameter values Kec": "4. 924",
+    "MAE MAE": "I. 0.024",
+    "MRE MRE": "3% 3.3%",
+    "max RE, max RE,": "8% 9.8%",
+    "R? R?": "1% 8.7 %"
+  }
+]

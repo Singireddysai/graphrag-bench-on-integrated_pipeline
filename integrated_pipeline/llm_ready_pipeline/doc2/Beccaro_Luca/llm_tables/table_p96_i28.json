@@ -1,0 +1,102 @@
+[
+  {
+    "0": null,
+    "1": null,
+    "2": "Envelope density"
+  },
+  {
+    "0": null,
+    "1": null,
+    "2": "True density"
+  },
+  {
+    "0": null,
+    "1": null,
+    "2": "Porosity"
+  },
+  {
+    "0": null,
+    "1": null,
+    "2": "Roll rotation frequency"
+  },
+  {
+    "0": null,
+    "1": null,
+    "2": "Effective angle of internal friction"
+  },
+  {
+    "0": null,
+    "1": null,
+    "2": "Angle of wall friction"
+  },
+  {
+    "0": null,
+    "1": null,
+    "2": "Acute angle between major principal axis and tangent to roll surface"
+  },
+  {
+    "0": null,
+    "1": null,
+    "2": "Friction coefficient"
+  },
+  {
+    "0": null,
+    "1": null,
+    "2": "Mean normal stress at nip angle a"
+  },
+  {
+    "0": null,
+    "1": null,
+    "2": "Mean normal stress at angular position 0"
+  },
+  {
+    "0": null,
+    "1": null,
+    "2": "Powder density in the layer corresponding to the angular position 0"
+  },
+  {
+    "0": null,
+    "1": null,
+    "2": "Powder density in the layer corresponding to the nip angle"
+  },
+  {
+    "0": null,
+    "1": null,
+    "2": "Ribbon solid fraction"
+  },
+  {
+    "0": "Yo",
+    "1": "=",
+    "2": "Pre-consolidation relative density"
+  },
+  {
+    "0": "Yorc",
+    "1": "=",
+    "2": "Pre-consolidation relative density estimated from roller compactor experimental data"
+  },
+  {
+    "0": "Yocs",
+    "1": null,
+    "2": "Pre-consolidation relative density estimated from compactor simulator experimental data"
+  },
+  {
+    "0": "Yorc",
+    "1": null,
+    "2": "Pre-consolidation relative density estimated using the mass correction factor transfer methodology"
+  },
+  {
+    "0": "Sintra-run",
+    "1": "=",
+    "2": "Standard deviation of the measured solid fraction of the intra runs samples"
+  },
+  {
+    "0": "Acronyms",
+    "1": "Acronyms",
+    "2": "Acronyms"
+  },
+  {
+    "0": null,
+    "1": null,
+    "2": "Roller compactor"
+  }
+]
