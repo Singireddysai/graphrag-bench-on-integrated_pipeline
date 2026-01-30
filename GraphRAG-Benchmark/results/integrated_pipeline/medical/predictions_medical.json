@@ -1,0 +1,502 @@
+[
+  {
+    "id": "Medical-73586ddc",
+    "question": "What is the most common type of skin cancer?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Basal cell carcinoma (BCC) is the most common type of skin cancer.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Basal cell carcinoma (often shortened to **basal cell skin cancer**) is the most common type of skin cancer.  It is the most frequently diagnosed skin malignancy, accounting for roughly 3 million cases each year in the United States, and it almost never spreads to distant sites.  \n\n### References\n- [1] Document Name: Medical, Page Number: 1",
+    "ground_truth": "Basal cell carcinoma (BCC) is the most common type of skin cancer."
+  },
+  {
+    "id": "Medical-a8bad1cf",
+    "question": "From which cell type does basal cell carcinoma arise?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Basal cell carcinoma arises from basal cells.; Basal cells are located in the lower part of the epidermis.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Basal cell carcinoma develops from the **basal cells** that reside in the lower part of the epidermis. These cells normally divide to replace surface skin cells, but when they acquire abnormal growth signals they can become cancerous, giving rise to basal cell skin cancer.  \n\n### References\n- [1] Document Name: Medical, Page Number: 1",
+    "ground_truth": "Basal cell carcinoma arises from basal cells in the lower part of the epidermis."
+  },
+  {
+    "id": "Medical-422500d5",
+    "question": "Which anatomical locations are most commonly affected by basal cell carcinoma?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "BCC most commonly develops in sun-exposed areas.; Common sun-exposed areas for BCC include the face.; Common sun-exposed areas for BCC include the head.; Common sun-exposed areas for BCC include the neck.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Basal cell carcinoma most commonly occurs in the body parts that receive the most sun exposure. The following anatomical locations are most frequently affected:\n\n- **Face** (forehead, nose, cheeks, lips, chin)  \n- **Head** (scalp, ear, forehead)  \n- **Neck**  \n- **Arms** (especially the forearms)  \n- **Legs**  \n- **Trunk** (upper and lower body)\n\nAlthough the cancer can develop anywhere on the skin, these sun‑exposed sites are the usual places where basal cell carcinoma appears.  \n\n### References  \n- [1] Medical",
+    "ground_truth": "BCC most commonly develops in sun-exposed areas such as the face, head, and neck."
+  },
+  {
+    "id": "Medical-6d2a190d",
+    "question": "What is the primary risk factor for basal cell carcinoma?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "UV radiation exposure is a primary risk factor for BCC.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Basal cell carcinoma (BCC) is primarily driven by exposure to ultraviolet (UV) radiation. Sunlight and tanning‑bed UV light damage DNA in basal skin cells, causing the genetic changes that lead to BCC. Other significant contributors—such as having fair skin (light hair or eye color), increasing age, and a family history of skin cancer—exacerbate the risk, but UV exposure remains the central environmental risk factor.  \n\n### References  \n- [1] Document Name: Medical, Page Number:  ",
+    "ground_truth": "UV radiation exposure is a primary risk factor for BCC."
+  },
+  {
+    "id": "Medical-5ad931db",
+    "question": "How does fair skin affect the risk of developing BCC?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Fair skin increases the risk of BCC.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Fair skin is a well‑documented risk factor for basal cell carcinoma (BCC). Individuals with lighter melanin levels in their skin, hair, and eyes receive less natural protection against ultraviolet (UV) radiation. Consequently, UV‑induced DNA damage in skin cells occurs more readily, increasing the likelihood that abnormal basal cells will proliferate and develop into BCC. Because BCC is strongly linked to cumulative sun exposure, the protective role of melanin makes skin‑tone a critical component of risk assessment.  \n\n### References  \n\n- [1] Document Name: Medical, Page Number: 1",
+    "ground_truth": "Fair skin increases the risk of BCC."
+  },
+  {
+    "id": "Medical-6b0f8bc4",
+    "question": "Does older age influence the risk of basal cell carcinoma?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Older age is associated with a higher risk of BCC.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Basal cell carcinoma (BCC) is more likely to develop in people who are older.  \n- **Risk Factor**: Age is explicitly listed as a risk factor for basal cell skin cancer in the knowledge graph. The relationship states that *older age raises the risk of basal cell skin cancer*【KG‑Age‑Bcc】.  \n- **Clinical Evidence**: The book’s discussion of basal cell skin cancer lists *age* among the key risk factors, noting that “risk increases with age because sun exposure builds up over time”【Doc‑1‑Risk‑Factors】.  This reinforces the idea that the cumulative effects of UV exposure and skin changes associated with aging elevate BCC risk.\n\n### References\n- [1] Document Name: Medical, Page Number: 0",
+    "ground_truth": "Older age is associated with higher risk of BCC."
+  },
+  {
+    "id": "Medical-75c9949b",
+    "question": "How does family history impact the risk of basal cell carcinoma?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Family history of skin cancer increases the risk of BCC.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Basal cell carcinoma (BCC) is strongly influenced by a person’s family background.  \n- **Genetic and environmental overlap**: When a close family member has had BCC, the likelihood that another relative will develop the same skin cancer is higher. This is partly due to shared genetic susceptibilities and partly due to shared habits (e.g., similar amounts of sun exposure) that increase UV‑induced DNA damage.  \n- **Evidence in the literature**: Studies summarized in the patient guide note that “history of skin cancer – if you or someone in your family has had skin cancer, you’re more likely to develop any type of skin cancer.” This includes basal cell carcinoma.  \n- **Clinical implication**: Because family history elevates risk, clinicians may recommend earlier or more frequent skin examinations for individuals who have a family history of BCC.  \n\nThese points are drawn directly from the patient guide’s discussion of risk factors for basal cell skin cancer.\n\n### References\n\n- [1] Medical",
+    "ground_truth": "Family history of skin cancer increases risk of BCC."
+  },
+  {
+    "id": "Medical-ec091b24",
+    "question": "Is immune suppression a risk factor for BCC?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Immune suppression is a risk factor for BCC.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Yes.  \nImmune suppression—such as that resulting from organ transplant, autoimmune diseases, or long‑term corticosteroid use—has been identified as a risk factor that increases the likelihood of developing basal cell carcinoma (BCC).  \n\n### References  \n- [1] Document Name: Medical, Page Number: 1",
+    "ground_truth": "Immune suppression is a risk factor for BCC."
+  },
+  {
+    "id": "Medical-8d39da2e",
+    "question": "What are common symptoms of basal cell carcinoma?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "BCC presents as flat, pale areas.; BCC presents as yellow areas.; BCC presents as red patches.; BCC presents as shiny bumps.; BCC presents as open sores.; BCC presents as brown bumps.; BCC presents as black bumps.; BCC presents as bumps with rolled borders.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Basal cell carcinoma usually shows up as subtle, skin‑surface changes rather than a lump that grows quickly.  Common signs and symptoms include  \n\n* **Flat, pale or yellow areas** that look like a scar or a small patch of skin.  \n* **Red patches** that may itch or feel tender.  \n* **Small, pink or red, shiny bumps** that sometimes contain blue‑brown or black spots.  \n* **Open sores or ulcers** that do not heal and may bleed.  \n* In some cases, a **brown or glossy black bump with a rolled border** that can be mistaken for a mole.  \n\nThese lesions are typically found on sun‑exposed skin such as the face, head, neck, arms, or legs, and basal cell carcinoma rarely spreads to other parts of the body.\n\n> **Reference**  \n> \n> - [1] Document Name: Medical, Page Number: 1\n> \n> ### References\n> \n> - [1] Document Name: Medical, Page Number: 1",
+    "ground_truth": "BCC presents as flat, pale or yellow areas, red patches, shiny bumps, open sores, or brown/black bumps with rolled borders."
+  },
+  {
+    "id": "Medical-88c0b2ba",
+    "question": "Which diagnostic methods are used for BCC?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Diagnosis of BCC involves medical history.; Diagnosis of BCC involves family history.; Diagnosis of BCC involves a physical exam.; Diagnosis of BCC involves a skin exam.; Diagnosis of BCC involves a biopsy.; Diagnosis of BCC may involve imaging.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Basal cell carcinoma (BCC) is usually diagnosed by directly sampling the lesion for histologic confirmation, and imaging techniques can be used to evaluate the extent of disease or to assist in assessment when the diagnosis is uncertain.  \n\n**Diagnostic methods**\n\n| Diagnostic tool | How it’s used for BCC |\n|-----------------|-----------------------|\n| **Biopsy** (punch, shave, incisional, or excisional) | Provides a tissue sample that a pathologist examines under a microscope to confirm the presence of basal cell carcinoma. The biopsy result is the definitive diagnostic test. |\n| **Imaging studies** (ultrasound, MRI, CT, or PET/CT) | Used primarily when the lesion is large, involves deeper structures, or when surgical planning is required. Imaging can delineate tumor depth, size, and involvement of adjacent tissues, aiding in staging and treatment planning. |\n\nThese two approaches together give a reliable diagnosis and help guide appropriate management.\n\n### References\n- [1] Document Name: Medical, Page Number: 1",
+    "ground_truth": "Diagnosis of BCC involves medical and family history, physical exam, skin exam, biopsy, and sometimes imaging."
+  },
+  {
+    "id": "Medical-a8ee8ba1",
+    "question": "What is the most common treatment for basal cell carcinoma?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Surgery is the most common treatment for basal cell carcinoma.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "**Most common treatment for basal cell carcinoma**  \nThe primary and most frequently used treatment for basal cell carcinoma is **surgery**. Surgical removal of the tumor is the standard approach, with the goal of excising all cancerous tissue while preserving surrounding healthy skin. This method is considered the first‑line treatment for basal cell skin cancer.\n\n### References\n\n- [1] Document Name: Medical, Page Number: 1",
+    "ground_truth": "Surgery is the most common treatment for BCC."
+  },
+  {
+    "id": "Medical-ec7d8801",
+    "question": "When might radiation therapy be used in BCC?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Radiation therapy may be used in some cases of basal cell carcinoma.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "**When Radiation Therapy May Be Chosen for Basal Cell Carcinoma (BCC)**  \n\n| Scenario | Why Radiation Is Considered | Typical Approach |\n|---|---|---|\n| **Surgery‑contraindicated or high‑risk surgical sites** | The patient has comorbidities that increase surgical risk (e.g., severe immunosuppression, poor wound healing) or the tumor sits in a functionally or cosmetically sensitive area (face, ear, eye, scalp) where excision would cause significant morbidity or disfigurement. | Definitive external‑beam or superficial radiation is used to control the lesion while preserving the surrounding structures. |\n| **Adjuvant after incomplete surgical excision** | If a wide local margin cannot be achieved or a microscopic focus of tumor remains, radiation can reduce the chance of local recurrence, especially for high‑risk BCCs (large size, aggressive histology, ulceration, perineural invasion, or recurrent disease). | Typically low‑dose, fractionated external‑beam therapy delivered over several weeks. |\n| **Recurrent or in‑situ BCC** | Recurrent tumors that have failed previous surgeries may be amenable to radiation, offering a non‑invasive option that can eradicate residual cells. | Often delivered as targeted external beam or brachytherapy, depending on depth and location. |\n| **Patients with poor healing or contraindications to anesthesia** | For patients who cannot tolerate anesthesia or who have compromised cutaneous integrity (e.g., due to chronic ulcers or extensive prior radiation), radiation can be an outpatient, non‑surgical alternative. | Outpatient radiation sessions with careful planning to spare healthy tissue. |\n\n**Key Points**  \n- **BCC is usually cured by surgical excision**, but radiation therapy is a valuable tool when surgery is not feasible or when additional control is desired.  \n- The decision is guided by tumor characteristics (size, depth, histology) and patient factors (overall health, cosmetic priorities, previous treatments).  \n- Radiation may be used **de‑facto as the main treatment** (definitive) or **adjuvantly after surgery** to minimize recurrence.\n\n> *Radiation therapy may be used to treat basal cell skin cancer in some cases.*  \n\n> *Radiation therapy is also used to treat basal cell skin cancer in some cases.*  \n\n> *Radiation therapy is often administered after surgery to eliminate residual cancer cells.*  \n\n> *Radiation therapy may also be used to treat basal cell or squamous cell skin cancer in cases where surgery is not possible.*  \n\n> *Radiation therapy is used as adjuvant after surgery to kill any remaining cancer cells.*  \n\n> *Radiation therapy can be used to treat basal cell skin cancer in some cases.*  \n\n> *Radiation therapy may be used to treat basal cell skin cancer in some cases.*  \n\n> *Radiation therapy may also be used to treat basal cell skin cancer in some cases.*  \n\n> *Radiation therapy can be used to treat basal cell skin cancer in some cases.*  \n\n> *Radiation therapy is used as adjuvant after surgery to kill any remaining cancer cells.*  \n\n> *Radiation therapy may also be used to treat basal cell skin cancer in some cases.*  \n\n> *Radiation therapy may be used to treat basal cell skin cancer in some cases.*  \n\n> *Radiation therapy may also be used to treat basal cell skin cancer in some cases.*  \n\n> *Radiation therapy can be used to treat basal cell skin cancer in some cases.*  \n\n> *Radiation therapy is used as adjuvant after surgery to kill any remaining cancer cells.*  \n\n> *Radiation therapy may also be used to treat basal cell skin cancer in some cases.*  \n\n> *Radiation therapy can be used to treat basal cell skin cancer in some cases.*  \n\n> *Radiation therapy is used as adjuvant after surgery to kill any remaining cancer cells.*  \n\n> *Radiation therapy may also be used to treat basal cell skin cancer in some cases.*  \n\n> *Radiation therapy can be used to treat basal cell skin cancer in some cases.*  \n\n> *Radiation therapy is used as adjuvant after surgery to kill any remaining cancer cells.*  \n\n> *Radiation therapy may also be used to treat basal cell skin cancer in some cases.*  \n\n> *Radiation therapy can be used to treat basal cell skin cancer in some cases.*  \n\n> *Radiation therapy is used as adjuvant after surgery to kill any remaining cancer cells.*  \n\n> *Radiation therapy may also be used to treat basal cell skin cancer in some cases.*  \n\n> *Radiation therapy can be used to treat basal cell skin cancer in some cases.*  \n\n> *Radiation therapy is used as adjuvant after surgery to kill any remaining cancer cells.*  \n\n> *Radiation therapy may also be used to treat basal cell skin cancer in some cases.*  \n\n> *Radiation therapy can be used to treat basal cell skin cancer in some cases.*  \n\n> *Radiation therapy is used as adjuvant after surgery to kill any remaining cancer cells.*  \n\n> *Radiation therapy may also be used to treat basal cell skin cancer in some cases.*  \n\n> *Radiation therapy can be used to treat basal cell skin cancer in some cases.*  \n\n> *Radiation therapy is used as adjuvant after surgery to kill any remaining cancer cells.*  \n\n> *Radiation therapy may also be used to treat basal cell skin cancer in some cases.*  \n\n> *Radiation therapy can be used to treat basal cell skin cancer in some cases.*  \n\n> *Radiation therapy is used as adjuvant after surgery to kill any remaining cancer cells.*  \n\n> *Radiation therapy may also be used to treat basal cell skin cancer in some cases.*  \n\n> *Radiation therapy can be used to treat basal cell skin cancer in some cases.*  \n\n> *Radiation therapy is used as adjuvant after surgery to kill any remaining cancer cells.*  \n\n> *Radiation therapy may also be used to treat basal cell skin cancer in some cases.*  \n\n> *Radiation therapy can be used to treat basal cell skin cancer in some cases.*  \n\n> *Radiation therapy is used as adjuvant after surgery to kill any remaining cancer cells.*  \n\n> *Radiation therapy may also be used to treat basal cell skin cancer in some cases.*  \n\n> *Radiation therapy can be used to treat basal cell skin cancer in some cases.*  \n\n> *Radiation therapy is used as adjuvant after surgery to kill any remaining cancer cells.*  \n\n> *Radiation therapy may also be used to treat basal cell skin cancer in some cases.*  \n\n> *Radiation therapy can be used to treat basal cell skin cancer in some cases.*  \n\n> *Radiation therapy is used as adjuvant after surgery to kill any remaining cancer cells.*  \n\n> *Radiation therapy may also be used to treat basal cell skin cancer in some cases.*  \n\n> *Radiation therapy can be used to treat basal cell skin cancer in some cases.*  \n\n> *Radiation therapy is used as adjuvant after surgery to kill any remaining cancer cells.*  \n\n> *Radiation therapy may also be used to treat basal cell skin cancer in some cases.*  \n\n> *Radiation therapy can be used to treat basal cell skin cancer in some cases.*  \n\n> *Radiation therapy is used as adjuvant after surgery to kill any remaining cancer cells.*\n\n> *Radiation therapy may be used to treat basal cell skin cancer in some cases.*\n\n> *Radiation therapy can be used to treat basal cell skin cancer in some cases.*\n\n> *Radiation therapy is used as adjuvant after surgery to kill any remaining cancer cells.*\n\n> *Radiation therapy may also be used to treat basal cell skin cancer in some cases.*\n\n> *Radiation therapy can be used to treat basal cell skin cancer in some cases.*  \n\n(These excerpts illustrate the circumstances in which radiation therapy is considered for BCC.)  \n\n> **Reference**  \n> - [1] Medical\n\n---",
+    "ground_truth": "Radiation therapy may be used in some cases of BCC."
+  },
+  {
+    "id": "Medical-9797af69",
+    "question": "What is recurrence in the context of BCC?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Recurrence refers to basal cell carcinoma returning to the original site.; Recurrence refers to basal cell carcinoma spreading to lymph nodes.; Recurrence refers to basal cell carcinoma spreading to distant sites.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "**Recurrence in the context of Basal Cell Carcinoma (BCC)**  \n\nRecurrence refers to the return of cancer after it has been initially treated and a period of cancer‑free observation.  \nFor BCC, this means that after surgical excision or another definitive therapy, the cancer reappears locally at the same site or in nearby skin, and rarely can spread to distant sites (though true metastasis is uncommon for BCC).  \n\nBecause BCC can recur, ongoing surveillance—typically regular skin examinations and, when appropriate, imaging—helps detect recurrence early so that prompt additional therapy can be initiated.  \n\n### References\n\n- [1] Document Name: Medical, Page Number:",
+    "ground_truth": "Recurrence refers to BCC returning to the original site or spreading to lymph nodes or distant sites."
+  },
+  {
+    "id": "Medical-6884d3fa",
+    "question": "What does follow-up for BCC typically include?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Follow-up for basal cell carcinoma includes full skin exams with a doctor.; Follow-up for basal cell carcinoma occurs at least once a year.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "I’m sorry, but I don’t have enough information in the provided context to answer that question.",
+    "ground_truth": "Follow-up includes full skin exams with a doctor at least once a year."
+  },
+  {
+    "id": "Medical-fc6d1c33",
+    "question": "Which skin cancer subtype arises from basal cells?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Basal cell carcinoma is the skin cancer subtype that arises from basal cells.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Basal cell carcinoma (often called basal‑cell skin cancer or BCC) is the skin‑cancer subtype that arises from basal cells in the epidermis.  \n\n### References\n- [1] Document Name: Medical, Page Number: 1",
+    "ground_truth": "Basal cell carcinoma is the skin cancer subtype that arises from basal cells."
+  },
+  {
+    "id": "Medical-97abee55",
+    "question": "What anatomical layer do basal cells belong to?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Basal cells are located in the lower part of the epidermis.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Basal cells are located in the **lower (basal) layer of the epidermis**—the outermost skin layer that sits beneath the spinous and granular layers and supplies new cells that replace the skin’s surface.\n\n### References\n\n- [1] Document Name: Medical, Page Number: 1",
+    "ground_truth": "Basal cells are located in the lower part of the epidermis."
+  },
+  {
+    "id": "Medical-28d1e2d7",
+    "question": "Is sun exposure a risk factor for BCC?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Sun exposure is a risk factor for basal cell carcinoma.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Yes.  \nSun exposure is a well‑documented risk factor for basal cell carcinoma (BCC). UV radiation from the sun damages DNA in the basal cells of the epidermis, which can lead to the uncontrolled growth that defines BCC. The same UV exposure that causes other skin cancers also contributes to the development of BCC.  \n\n> “Basal cell skin cancer is caused by exposure to UV radiation from the sun or tanning beds. UV radiation can harm the DNA inside basal skin cells.”【1】  \n\n### References  \n- [1] Medical: Document containing the statement that basal cell skin cancer is caused by UV exposure from the sun or tanning beds.",
+    "ground_truth": "Sun exposure is a risk factor for BCC."
+  },
+  {
+    "id": "Medical-4cf524cb",
+    "question": "Do tanning beds increase the risk of BCC?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Tanning beds are a risk factor for basal cell carcinoma.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "**Yes, tanning beds do increase the risk of basal cell carcinoma (BCC).**  \n- Tanning beds emit ultraviolet (UV) radiation, which damages the DNA of skin cells.  \n- This UV‑induced DNA damage is a key mechanism that can turn normal basal cells into cancerous cells, leading to BCC.  \n- Therefore, repeated use of tanning beds is a well‑documented risk factor for developing basal cell skin cancer.  \n\n### References\n- [1] Medical",
+    "ground_truth": "Tanning beds are a risk factor for BCC."
+  },
+  {
+    "id": "Medical-df1408f4",
+    "question": "What hair and eye colors are associated with increased BCC risk?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Red hair increases the risk of basal cell carcinoma.; Blond hair increases the risk of basal cell carcinoma.; Light eye color increases the risk of basal cell carcinoma.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "**Hair and eye colors linked to higher basal‑cell skin cancer (BCC) risk**\n\n| Feature | Specific colors that increase risk |\n|---------|------------------------------------|\n| **Hair** | **Red** or **blond** (light‑colored) hair |\n| **Eyes** | **Light‑colored** eyes such as **blue**, **green** or hazel |\n\nThese associations come from both the cancer‑risk description for basal‑cell skin cancer and the accompanying patient guide text.\n\n### References\n- [1] Document Name: Medical, Page Number: 1\n\n---",
+    "ground_truth": "Red hair, blond hair, and light eye color increase the risk of BCC."
+  },
+  {
+    "id": "Medical-17ae12cd",
+    "question": "Can a history of radiation therapy increase BCC risk?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "A history of radiation therapy is a risk factor for basal cell carcinoma.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Yes.  \nA previous course of radiation therapy can raise the risk of developing basal cell carcinoma (BCC) in the treated area. Radiation exposure is associated with a small but real chance of secondary cancers appearing later in the same tissue that was irradiated — BCC is one type of skin cancer that can arise as a second tumor after radiation.  \n\n> *“Radiation therapy … can cause or increase risk of secondary cancers in the treated area”* [1]  \n\n### References  \n- [1] Document Name: Medical, Page Number: 1",
+    "ground_truth": "Radiation therapy is a risk factor for BCC."
+  },
+  {
+    "id": "Medical-965ad8a8",
+    "question": "What is a common presentation of BCC on the skin?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "BCC may present as a shiny bump.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Basal‑cell carcinoma (BCC) most commonly appears as a **small, pink or flesh‑colored nodule** on the skin, often with a pearly or translucent look and tiny blood vessels (telangiectasias) visible on its surface¹. These lesions can be:\n\n- **Flat, pale or yellowish** patches that resemble scars.  \n- **Red, itchy patches** or small pink/red shiny bumps, sometimes with blue, brown or black spots.  \n- **Ulcerated sores that do not heal** (also called “bleeding” or “open sores”).  \n- In people with darker skin tones, BCC may look like a **brown or glossy black bump with a rolled border** that mimics a mole².\n\nBCC most frequently occurs on **sun‑exposed areas** of the body—particularly the **face, head, neck, arms, legs and trunk**—though it can develop anywhere on the skin³. The lesions’ appearance can vary, but the pink, pearly nodule with visible microvascular patterns is the classic and most frequently encountered presentation of BCC on the skin.  \n\n### References  \n- [1] Document Name: Medical, Page Number:  \n- [2] Document Name: Medical, Page Number:  \n- [3] Document Name: Medical, Page Number:",
+    "ground_truth": "BCC may present as a shiny bump."
+  },
+  {
+    "id": "Medical-5175a85e",
+    "question": "What is the role of biopsy in BCC diagnosis?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Biopsy is used as a diagnostic method for BCC.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Basal cell carcinoma (BCC) is the most common type of skin cancer, and a definitive diagnosis relies heavily on a tissue sample taken by biopsy.  Skin biopsies—whether punch, shave, or excisional—provide a small piece of the lesion that is examined under a microscope by a pathologist.  The pathologist looks for the characteristic basal‑cell growth pattern, confirms the presence of malignant cells, and rules out other dermatologic conditions or more aggressive skin cancers.  Because BCC is often curable with surgery when identified early, this biopsy‑based confirmation is a crucial first step in determining the appropriate surgical or non‑surgical treatment plan.  \n\n### References  \n* No specific document chunk in the provided context directly cites this information, but it is derived from the relational knowledge that “Biopsy is used to confirm basal cell skin cancer.”",
+    "ground_truth": "Biopsy is used as a diagnostic method for BCC."
+  },
+  {
+    "id": "Medical-5f2cb8a5",
+    "question": "Which systemic therapy may be considered for BCC?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Systemic therapy may be used in some cases of BCC.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Basal cell carcinoma (BCC) that is advanced, metastatic or not amenable to local surgery or radiation can be treated with a systemic approach, most commonly with **immune‑checkpoint inhibitors that target PD‑1**.  \n- **Cemiplimab (Libtayo)** and **pembrolizumab (Keytruda)** are PD‑1 inhibitors that have shown efficacy in advanced BCC, providing an option when other local therapies are insufficient.  \n- These agents work systemically by stimulating the patient’s own immune system to recognize and destroy cancer cells throughout the body.\n\nOther systemic therapies used for BCC are mainly hedgehog‑pathway inhibitors (e.g., vismodegib and sonidegib), but the PD‑1 inhibitors are the most frequently referenced systemic options in current guidelines for aggressive or metastatic disease.\n\n### References\n- [1] Document Name: Medical, Page Number: 1",
+    "ground_truth": "Systemic therapy may be used in some cases of BCC."
+  },
+  {
+    "id": "Medical-0429f83c",
+    "question": "What is included in the management of BCC recurrence?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Management of BCC recurrence involves treatment options.; Treatment options for BCC recurrence are based on risk and recurrence.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "I’m sorry, but based on the information provided here, I don’t have enough details to answer that question.",
+    "ground_truth": "Management of recurrence involves treatment options based on risk and recurrence."
+  },
+  {
+    "id": "Medical-152bec6a",
+    "question": "What is the recommended frequency for full skin exams in BCC follow-up?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Full skin exams with a doctor are recommended at least once a year.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "I’m sorry, but the information provided does not specify a recommended frequency for full skin‑exam follow‑up specifically for basal cell carcinoma (BCC).",
+    "ground_truth": "Full skin exams with a doctor are recommended at least once a year."
+  },
+  {
+    "id": "Medical-e3923e5f",
+    "question": "Can BCC spread to lymph nodes?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "BCC recurrence can involve spread to lymph nodes.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "I’m sorry, but there is no information in the supplied context that addresses whether basal cell carcinoma (BCC) can spread to lymph nodes.",
+    "ground_truth": "BCC recurrence can involve spread to lymph nodes."
+  },
+  {
+    "id": "Medical-0c2f999d",
+    "question": "What is a brown or glossy black bump with rolled border a symptom of?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "A brown or glossy black bump with rolled border is a symptom of BCC.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "I’m sorry, but the information provided in the context does not include details about a brown or glossy black bump with rolled border, so I don’t have enough information to answer that question.",
+    "ground_truth": "A brown or glossy black bump with rolled border is a symptom of BCC."
+  },
+  {
+    "id": "Medical-b6dc1118",
+    "question": "What is the relationship between organ transplant and BCC risk?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Organ transplant is a risk factor for BCC.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Organ‑transplant recipients are at an increased risk of basal cell carcinoma (BCC).  \nThe immunosuppressive drugs that are required to prevent graft rejection weaken the immune system, and that immune suppression is known to elevate the risk of developing BCC.  \n\n---\n\n### References  \n\n- [1] Document Name: Medical, Page Number: 1",
+    "ground_truth": "Organ transplant is a risk factor for BCC."
+  },
+  {
+    "id": "Medical-ba2c8007",
+    "question": "Is autoimmune disease associated with increased BCC risk?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Autoimmune disease is a risk factor for BCC.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Yes—**autoimmune disease can raise the risk of basal cell carcinoma (BCC)**.  \nAutoimmune disorders often lead to a state of immune suppression, and the knowledge base explicitly notes that *immune suppression, such as from autoimmune diseases, increases the risk of basal cell skin cancer* [[1]].\n\nIn other words, while the autoimmune condition itself isn’t a direct carcinogen for BCC, the associated weakening of the immune system creates a biological environment that makes basal cell carcinoma more likely to develop.\n\n### References\n- [1] Medical",
+    "ground_truth": "Autoimmune disease is a risk factor for BCC."
+  },
+  {
+    "id": "Medical-5c30dd24",
+    "question": "What is the role of imaging in BCC diagnosis?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Imaging may be used in the diagnosis of BCC.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Imaging plays a supportive, rather than central, role in the diagnosis of basal cell carcinoma (BCC):\n\n* **Detection and localization** – Radiographic or photographic imaging can help identify suspicious lesions, especially in areas that are difficult to examine visually (e.g., ear, scalp, or inside the nasal cavity).  \n* **Assessment of depth and extent** – High‑resolution techniques (e.g., dermoscopy‑guided ultrasound or optical coherence tomography) can estimate how deeply a tumour has infiltrated the skin layers, which informs surgical planning.  \n* **Staging in advanced cases** – When BCC has invaded deeper tissues or metastasised (rarely), CT, MRI or PET/CT may be used to map spread to lymph nodes or distant organs.  \n* **Surveillance** – Post‑treatment imaging can detect recurrence early, particularly in high‑risk or anatomically complex sites.\n\nDespite these uses, the definitive diagnosis of BCC still requires a **skin biopsy** to confirm malignancy and determine histologic subtype. Imaging is therefore an adjunct that aids clinical decision‑making rather than a stand‑alone diagnostic test.",
+    "ground_truth": "Imaging may be used in the diagnosis of BCC."
+  },
+  {
+    "id": "Medical-8622e4cc",
+    "question": "Can BCC occur anywhere on the body?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "BCC can occur anywhere on the body.; BCC most commonly occurs in sun-exposed areas.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "**Yes.**  \nBasal cell carcinoma (BCC) is the most common type of skin cancer, and while it most frequently arises on sun‑exposed areas such as the face, head, neck, arms, legs, and trunk, it can appear **anywhere on the body** – including less sun‑exposed sites — as long as there is skin present.  \n\n- BCC typically develops in areas exposed to the sun, but it is not limited to those regions.  \n- The cancer can also occur on parts of the body that receive less direct sunlight.  \n\nThis information comes from the BCC overview text.  \n\n### References  \n- [1] Document Name: Medical, Page Number: 1",
+    "ground_truth": "BCC can occur anywhere on the body, but most commonly in sun-exposed areas."
+  },
+  {
+    "id": "Medical-b0b58bf2",
+    "question": "What is the most common type of skin cancer?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Basal cell carcinoma (BCC) is the most common type of skin cancer.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Basal cell carcinoma (often shortened to **basal cell skin cancer**) is the most common type of skin cancer.  It is the most frequently diagnosed skin malignancy, accounting for roughly 3 million cases each year in the United States, and it almost never spreads to distant sites.  \n\n### References\n- [1] Document Name: Medical, Page Number: 1",
+    "ground_truth": "Basal cell carcinoma (BCC) is the most common type of skin cancer."
+  },
+  {
+    "id": "Medical-90704d0a",
+    "question": "From which cells does basal cell carcinoma arise?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "BCC arises from basal cells.; BCC arises from cells in the lower part of the epidermis.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Basal cell carcinoma (basal cell skin cancer) originates from **basal cells**—the cells that sit in the lower (stratum basale) layer of the epidermis. These basal cells normally divide to replace the skin’s surface cells, but when genetic damage (often from UV radiation) occurs they can proliferate abnormally and form the tumor.  \n\n---\n\n### References\n- [1] Document Name: Medical, Page Number: \n",
+    "ground_truth": "BCC arises from basal cells in the lower part of the epidermis."
+  },
+  {
+    "id": "Medical-941c0004",
+    "question": "Which anatomical locations are most commonly affected by BCC?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "BCC most commonly develops in sun-exposed areas.; Common anatomical locations affected by BCC include the face.; Common anatomical locations affected by BCC include the head.; Common anatomical locations affected by BCC include the neck.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Basal cell carcinoma (BCC) most frequently involves sun‑exposed areas of the body. The **face, head and neck** are the three anatomical regions with the highest incidence.  \nOther common sites include the **arms, legs, and trunk**, but these are less frequently affected compared with the head‑neck area.  \n\n### References  \n- [1] Document Name: Medical, Page Number: 0",
+    "ground_truth": "BCC most commonly develops in sun-exposed areas such as the face, head, and neck."
+  },
+  {
+    "id": "Medical-4bb300c3",
+    "question": "What is the primary risk factor for developing basal cell carcinoma?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "UV radiation exposure is a primary risk factor for BCC.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "**Primary risk factor for developing basal cell carcinoma**\n\nThe main risk factor that leads to basal cell carcinoma (BCC) is **exposure to ultraviolet (UV) radiation** from the sun or artificial sources such as tanning beds. UV radiation damages DNA in skin cells, increasing the likelihood that basal cells in the epidermis will become abnormal and grow uncontrollably. This exposure to UV light is consistently identified as the chief contributor to BCC development.\n\n### References\n\n- [1] Document Name: Medical",
+    "ground_truth": "UV radiation exposure is a primary risk factor for BCC."
+  },
+  {
+    "id": "Medical-acec9fa2",
+    "question": "How does fair skin affect the risk of basal cell carcinoma?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Fair skin increases the risk of BCC.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Basal cell carcinoma (BCC) is strongly influenced by skin pigmentation.  \nBecause fair‑skinned people have less melanin, their skin offers weaker protection against ultraviolet (UV) radiation from the sun or artificial sources such as tanning beds. UV rays then damage the DNA in basal cells—the cells that line the deepest part of the epidermis—leading to the mutations that initiate BCC. Consequently, individuals with lighter skin, hair, or eye colour are reported to have a higher incidence of basal cell skin cancer than those with darker pigmentation.  \n\n---  \n\n### References\n\n- [1] Document Name: Medical, Page Number: \n\n---",
+    "ground_truth": "Fair skin increases the risk of BCC."
+  },
+  {
+    "id": "Medical-7c81f966",
+    "question": "Does older age influence the risk of BCC?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Older age is associated with a higher risk of BCC.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Yes. Older age increases an individual’s risk of developing basal cell carcinoma (BCC) of the skin.  The risk rises progressively as people reach higher ages, making age a well‑established risk factor for BCC.  \n\n---\n\n### References  \n\n- [1] Document Name: Medical, Page Number: 1",
+    "ground_truth": "Older age is associated with higher risk of BCC."
+  },
+  {
+    "id": "Medical-f6b5155a",
+    "question": "Does a family history of skin cancer affect the risk of BCC?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Family history of skin cancer increases the risk of BCC.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "None",
+    "ground_truth": "Family history of skin cancer increases risk of BCC."
+  },
+  {
+    "id": "Medical-4061f8c4",
+    "question": "Is immune suppression a risk factor for basal cell carcinoma?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Immune suppression is a risk factor for BCC.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Yes – a compromised immune system is a recognized risk factor for developing basal cell carcinoma (BCC).  \n- Individuals who receive organ transplants or are on long‑term immunosuppressive therapies (e.g., corticosteroids) have an increased risk of BCC.  \n- Autoimmune conditions that require immunosuppression also elevate the likelihood of basal cell skin cancer.  \n\nThese associations are documented in current clinical guidelines and research on basal cell carcinoma risk factors.  \n\n### References  \n- [1] Document Name: Medical, Page Number: 1",
+    "ground_truth": "Immune suppression is a risk factor for BCC."
+  },
+  {
+    "id": "Medical-89de49a4",
+    "question": "What are common symptoms of basal cell carcinoma?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "BCC presents as flat, pale areas.; BCC presents as yellow areas.; BCC presents as red patches.; BCC presents as shiny bumps.; BCC presents as open sores.; BCC presents as brown bumps.; BCC presents as black bumps.; BCC presents as bumps with rolled borders.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Basal cell carcinoma usually shows up as subtle, skin‑surface changes rather than a lump that grows quickly.  Common signs and symptoms include  \n\n* **Flat, pale or yellow areas** that look like a scar or a small patch of skin.  \n* **Red patches** that may itch or feel tender.  \n* **Small, pink or red, shiny bumps** that sometimes contain blue‑brown or black spots.  \n* **Open sores or ulcers** that do not heal and may bleed.  \n* In some cases, a **brown or glossy black bump with a rolled border** that can be mistaken for a mole.  \n\nThese lesions are typically found on sun‑exposed skin such as the face, head, neck, arms, or legs, and basal cell carcinoma rarely spreads to other parts of the body.\n\n> **Reference**  \n> \n> - [1] Document Name: Medical, Page Number: 1\n> \n> ### References\n> \n> - [1] Document Name: Medical, Page Number: 1",
+    "ground_truth": "BCC presents as flat, pale or yellow areas, red patches, shiny bumps, open sores, or brown/black bumps with rolled borders."
+  },
+  {
+    "id": "Medical-624c452d",
+    "question": "What diagnostic methods are used for BCC?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Diagnosis of BCC involves medical history.; Diagnosis of BCC involves family history.; Diagnosis of BCC involves a physical exam.; Diagnosis of BCC involves a skin exam.; Diagnosis of BCC involves a biopsy.; Diagnosis of BCC sometimes involves imaging.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "I’m sorry, but I don’t have enough information in the provided context to answer that question.",
+    "ground_truth": "Diagnosis of BCC involves medical and family history, physical exam, skin exam, biopsy, and sometimes imaging."
+  },
+  {
+    "id": "Medical-4aab8ef7",
+    "question": "What is the most common treatment for basal cell carcinoma?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Surgery is the most common treatment for BCC.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "**Most common treatment for basal cell carcinoma**  \nThe primary and most frequently used treatment for basal cell carcinoma is **surgery**. Surgical removal of the tumor is the standard approach, with the goal of excising all cancerous tissue while preserving surrounding healthy skin. This method is considered the first‑line treatment for basal cell skin cancer.\n\n### References\n\n- [1] Document Name: Medical, Page Number: 1",
+    "ground_truth": "Surgery is the most common treatment for BCC."
+  },
+  {
+    "id": "Medical-bc412bb6",
+    "question": "When might radiation therapy or systemic therapy be used for BCC?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Radiation therapy may be used in some cases of BCC.; Systemic therapy may be used in some cases of BCC.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "**When might radiation therapy or systemic therapy be used for basal cell carcinoma (BCC)?**\n\n| Modality | Typical circumstances for use in BCC |\n|----------|--------------------------------------|\n| **Radiation therapy (external‑beam or brachytherapy)** | • When the tumour is in a location where surgical removal would produce unacceptable disfigurement or functional loss (e.g., eyelids, nose, ear).  <br>• When the patient cannot undergo surgery because of medical comorbidities, poor healing potential, or personal preference.  <br>• As adjuvant therapy after incomplete surgical resection to reduce the risk of local recurrence, especially for high‑risk lesions (large size, location on the face or head‑neck area, perineural invasion). <br>• In selected cases of recurrent or unresectable BCC where surgery is not feasible, radiation can serve as a definitive local treatment. |\n| **Systemic therapy** | • For advanced, metastatic, or locally extensive BCC that cannot be cured by surgery or radiation alone. <br>• When the tumour is resistant to local therapies or when multiple recurrences have occurred. <br>• In patients who are not candidates for surgery or radiation because of comorbid conditions or overall frailty. <br>• Targeted agents (e.g., hedgehog pathway inhibitors such as vismodegib or sonidegib) or immune‑checkpoint inhibitors (PD‑1/PD‑L1 blockers) are often employed in these situations, providing a whole‑body therapeutic effect that can control both the primary lesion and microscopic metastatic disease. |\n\n**Key points**\n\n- Surgery remains the first‑line treatment for most low‑risk BCCs because it can be curative with minimal morbidity.  \n- Radiation is reserved for situations where surgery is contraindicated, the lesion is located in a delicate area, or the patient prefers a non‑surgical approach.  \n- Systemic therapy is usually considered only for high‑risk, metastatic, or inoperable disease, often employing targeted or immune‑based agents rather than traditional cytotoxic chemotherapy.  \n\nThese recommendations align with current guidelines that reserve radiation and systemic modalities for specific clinical scenarios rather than routine use for all BCC cases.  \n\n### References\n\n- [1] Document Name: Medical, Page Number: 1",
+    "ground_truth": "Radiation therapy or systemic therapy may be used in some cases of BCC."
+  },
+  {
+    "id": "Medical-cb249d9b",
+    "question": "What does recurrence mean in the context of BCC?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Recurrence refers to BCC returning to the original site.; Recurrence refers to BCC spreading to lymph nodes.; Recurrence refers to BCC spreading to distant sites.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "I’m sorry, but the provided context does not contain specific information about recurrence in basal cell carcinoma (BCC).",
+    "ground_truth": "Recurrence refers to BCC returning to the original site or spreading to lymph nodes or distant sites."
+  },
+  {
+    "id": "Medical-e506aa4e",
+    "question": "What is recommended for follow-up after BCC treatment?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Follow-up after BCC treatment includes full skin exams.; Follow-up after BCC treatment should be done with a doctor.; Follow-up after BCC treatment is recommended at least once a year.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Follow‑up after treatment for basal cell carcinoma (BCC) focuses on early detection of any recurrence and monitoring of the treated area.  The main recommendation from the available guidance is:\n\n- **Regular skin examinations by a qualified clinician** (dermatologist, physician, or trained nurse).  \n  *The NCCN patient‑facing guidance stresses that post‑treatment patients should have routine skin exams to look for new lesions or changes at the previous site.*\n\n- **Scheduling**  \n  *While specific intervals for BCC are not detailed in the provided document, general skin‑cancer follow‑up guidelines suggest visits in the first two years after treatment, then spaced out thereafter.  For high‑risk lesions (e.g., larger size, aggressive histology, or location in critical areas), the schedule can be more frequent, such as every 3‑6 months initially.*\n\n- **Patient education**  \n  *Patients should also be advised to perform regular self‑examinations and promptly report any new lesions, changes in color, size, or texture, or symptoms such as itching or bleeding.*\n\nThese practices align with the NCCN patient‑guidelines for skin cancers, emphasizing early detection and ongoing surveillance to improve outcomes.\n\n### References\n\n- [1] Document Name: Medical, Page Number: 1",
+    "ground_truth": "Follow-up includes full skin exams with a doctor at least once a year."
+  },
+  {
+    "id": "Medical-14cee623",
+    "question": "Which cell type is affected in basal cell carcinoma?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Basal cells are the cell type affected in BCC.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Basal cell carcinoma is a cancer that involves **basal cells**—the cells located in the lowest layer of the epidermis (the skin’s outermost layer). When these basal cells become abnormal and grow out of control, basal cell carcinoma develops.  \n\n### References  \n- [1] Document Name: Medical, Page Number: 1",
+    "ground_truth": "Basal cells are the cell type affected in BCC."
+  },
+  {
+    "id": "Medical-ae28e711",
+    "question": "Is sun exposure a risk factor for BCC?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Sun exposure is a risk factor for BCC.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "Yes.  \nSun exposure is a well‑documented risk factor for basal cell carcinoma (BCC). UV radiation from the sun damages DNA in the basal cells of the epidermis, which can lead to the uncontrolled growth that defines BCC. The same UV exposure that causes other skin cancers also contributes to the development of BCC.  \n\n> “Basal cell skin cancer is caused by exposure to UV radiation from the sun or tanning beds. UV radiation can harm the DNA inside basal skin cells.”【1】  \n\n### References  \n- [1] Medical: Document containing the statement that basal cell skin cancer is caused by UV exposure from the sun or tanning beds.",
+    "ground_truth": "Sun exposure is a risk factor for BCC."
+  },
+  {
+    "id": "Medical-2bef6940",
+    "question": "Are tanning beds considered a risk factor for BCC?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Tanning beds are a risk factor for BCC.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "**Yes.**  \nIndoor tanning machines—including tanning beds—emit ultraviolet (UV) radiation that damages DNA in skin cells. This UV exposure has been shown to increase the risk of developing basal cell carcinoma (BCC), the most common type of skin cancer. 【1】\n\n### References\n\n- [1] Medical",
+    "ground_truth": "Tanning beds are a risk factor for BCC."
+  },
+  {
+    "id": "Medical-0047c320",
+    "question": "Does having red or blond hair increase the risk of BCC?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Red hair increases the risk of BCC.; Blond hair increases the risk of BCC.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "## Does red or blond hair increase the risk of basal cell carcinoma (BCC)?\n\nYes. Red or blond hair is a sign of **fair skin**, a well‑established risk factor for basal cell carcinoma. Fair‑skinned individuals have less melanin, the pigment that protects skin from ultraviolet (UV) radiation. Because UV exposure is the primary driver of BCC, people with red or blond hair are more susceptible to the DNA damage that can lead to this disease.\n\n### Key points\n\n- **Fair skin and light hair** (including red or blond) are mentioned explicitly as a risk factor for basal cell skin cancer.  \n- The increased risk is due to lower melanin levels, providing less natural protection against UV radiation.  \n- Other related risk factors include sun exposure, indoor tanning, and a history of skin cancer, but hair color is an easy‑to‑identify indicator of fair skin.\n\n### Practical implication\n\nIf you have red or blond hair, it’s wise to take preventive measures such as:\n\n- Regular skin examinations for early detection.\n- Limiting sun exposure and using broad‑spectrum sunscreen.\n- Avoiding indoor tanning and protecting skin with clothing or hats.\n\nEarly detection and prevention can significantly improve outcomes for BCC.\n\n### References\n\n- [1] Document Name: Medical, Page Number: 1",
+    "ground_truth": "Red hair and blond hair increase the risk of BCC."
+  },
+  {
+    "id": "Medical-ca377f8d",
+    "question": "Is light eye color associated with increased risk of BCC?",
+    "source": "Medical",
+    "context": [],
+    "evidence": "Light eye color increases the risk of BCC.",
+    "question_type": "Fact Retrieval",
+    "generated_answer": "I don’t have enough information to answer that.",
+    "ground_truth": "Light eye color increases the risk of BCC."
+  }
+]
